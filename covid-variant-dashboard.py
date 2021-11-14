@@ -14,7 +14,6 @@ from dash.dependencies import Input, Output
 import pandas
 import plotly.graph_objects as go
 import plotly.express as px
-import webbrowser
 
 # import and transform the data for the way we need it in order to create the dashboard
 variants = ['Beta','Alpha','Gamma','Delta','Kappa','Epsilon','Eta','Iota','Lambda','others']
@@ -115,5 +114,4 @@ def build_dash(country):
     return fig
 
 port = 5000
-webbrowser.open_new("http://localhost:{}".format(port))
 app.run_server(debug=True, port=port)
