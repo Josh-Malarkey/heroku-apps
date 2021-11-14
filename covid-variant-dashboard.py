@@ -7,18 +7,14 @@ https://github.com/Coding-with-Adam/Dash-by-Plotly/tree/master/Dash%20Components
 https://www.youtube.com/watch?v=UYH_dNSX1DM
 """
 
-from base64 import b64encode
 import dash
 from dash import dcc
 from dash import html
 from dash.dependencies import Input, Output
-import io
 import pandas
 import plotly.graph_objects as go
 import plotly.express as px
 import webbrowser
-
-buffer = io.StringIO()
 
 # import and transform the data for the way we need it in order to create the dashboard
 variants = ['Beta','Alpha','Gamma','Delta','Kappa','Epsilon','Eta','Iota','Lambda','others']
@@ -29,9 +25,6 @@ countries = covid_variant_data['location'].unique()
 country_dict = []
 for country in countries:
     country_dict.append({'label': country, 'value': country})
-
-html_bytes = buffer.getvalue().encode()
-encoded = b64encode(html_bytes).decode()
 
 # create the dashboard as an app
 app = dash.Dash(__name__)
@@ -121,7 +114,6 @@ def build_dash(country):
     fig.update_yaxes(title_text='Number of Sequences')
     return fig
 
-
 port = 5000
-# webbrowser.open_new("http://localhost:{}".format(port))
+webbrowser.open_new("http://localhost:{}".format(port))
 app.run_server(debug=True, port=port)
