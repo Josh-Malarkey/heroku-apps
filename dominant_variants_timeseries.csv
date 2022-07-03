@@ -157,7 +157,7 @@ date,variant,location,percent_of_sequences,date_str
 2020-08-31 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
 2020-08-31 00:00:00.000000,(Non-WHO) + org strain,Peru,100.0,2020/08/31
 2020-08-31 00:00:00.000000,(Non-WHO) + org strain,Russia,100.0,2020/08/31
-2020-08-31 00:00:00.000000,(Non-WHO) + org strain,South Africa,90.43,2020/08/31
+2020-08-31 00:00:00.000000,(Non-WHO) + org strain,South Africa,90.98,2020/08/31
 2020-08-31 00:00:00.000000,(Non-WHO) + org strain,South Korea,100.0,2020/08/31
 2020-08-31 00:00:00.000000,(Non-WHO) + org strain,Spain,100.0,2020/08/31
 2020-08-31 00:00:00.000000,(Non-WHO) + org strain,Switzerland,100.0,2020/08/31
@@ -177,11 +177,11 @@ date,variant,location,percent_of_sequences,date_str
 2020-09-14 00:00:00.000000,(Non-WHO) + org strain,Norway,100.0,2020/09/14
 2020-09-14 00:00:00.000000,(Non-WHO) + org strain,Russia,100.0,2020/09/14
 2020-09-14 00:00:00.000000,(Non-WHO) + org strain,Slovenia,100.0,2020/09/14
-2020-09-14 00:00:00.000000,(Non-WHO) + org strain,South Africa,87.43,2020/09/14
+2020-09-14 00:00:00.000000,(Non-WHO) + org strain,South Africa,87.5,2020/09/14
 2020-09-14 00:00:00.000000,(Non-WHO) + org strain,Spain,100.0,2020/09/14
 2020-09-14 00:00:00.000000,(Non-WHO) + org strain,Switzerland,100.0,2020/09/14
 2020-09-14 00:00:00.000000,(Non-WHO) + org strain,United Kingdom,100.0,2020/09/14
-2020-09-14 00:00:00.000000,(Non-WHO) + org strain,United States,99.89,2020/09/14
+2020-09-14 00:00:00.000000,(Non-WHO) + org strain,United States,99.9,2020/09/14
 2020-09-28 00:00:00.000000,(Non-WHO) + org strain,Australia,100.0,2020/09/28
 2020-09-28 00:00:00.000000,(Non-WHO) + org strain,Belgium,100.0,2020/09/28
 2020-09-28 00:00:00.000000,(Non-WHO) + org strain,Brazil,100.0,2020/09/28
@@ -224,14 +224,14 @@ date,variant,location,percent_of_sequences,date_str
 2020-10-12 00:00:00.000000,(Non-WHO) + org strain,Norway,100.0,2020/10/12
 2020-10-12 00:00:00.000000,(Non-WHO) + org strain,Russia,100.0,2020/10/12
 2020-10-12 00:00:00.000000,(Non-WHO) + org strain,Slovenia,100.0,2020/10/12
-2020-10-12 00:00:00.000000,(Non-WHO) + org strain,South Africa,83.88,2020/10/12
+2020-10-12 00:00:00.000000,(Non-WHO) + org strain,South Africa,83.94,2020/10/12
 2020-10-12 00:00:00.000000,(Non-WHO) + org strain,Spain,100.0,2020/10/12
 2020-10-12 00:00:00.000000,(Non-WHO) + org strain,Switzerland,100.0,2020/10/12
 2020-10-12 00:00:00.000000,(Non-WHO) + org strain,United Kingdom,99.94,2020/10/12
-2020-10-12 00:00:00.000000,(Non-WHO) + org strain,United States,99.66,2020/10/12
+2020-10-12 00:00:00.000000,(Non-WHO) + org strain,United States,99.67,2020/10/12
 2020-10-26 00:00:00.000000,(Non-WHO) + org strain,Australia,100.0,2020/10/26
 2020-10-26 00:00:00.000000,(Non-WHO) + org strain,Belgium,100.0,2020/10/26
-2020-10-26 00:00:00.000000,(Non-WHO) + org strain,Brazil,99.22,2020/10/26
+2020-10-26 00:00:00.000000,(Non-WHO) + org strain,Brazil,99.3,2020/10/26
 2020-10-26 00:00:00.000000,(Non-WHO) + org strain,Canada,100.0,2020/10/26
 2020-10-26 00:00:00.000000,(Non-WHO) + org strain,Denmark,100.0,2020/10/26
 2020-10-26 00:00:00.000000,(Non-WHO) + org strain,France,100.0,2020/10/26
@@ -252,10 +252,10 @@ date,variant,location,percent_of_sequences,date_str
 2020-10-26 00:00:00.000000,(Non-WHO) + org strain,Spain,100.0,2020/10/26
 2020-10-26 00:00:00.000000,(Non-WHO) + org strain,Switzerland,100.0,2020/10/26
 2020-10-26 00:00:00.000000,(Non-WHO) + org strain,United Kingdom,99.78,2020/10/26
-2020-10-26 00:00:00.000000,(Non-WHO) + org strain,United States,99.44,2020/10/26
+2020-10-26 00:00:00.000000,(Non-WHO) + org strain,United States,99.45,2020/10/26
 2020-11-09 00:00:00.000000,(Non-WHO) + org strain,Austria,100.0,2020/11/09
 2020-11-09 00:00:00.000000,(Non-WHO) + org strain,Belgium,100.0,2020/11/09
-2020-11-09 00:00:00.000000,(Non-WHO) + org strain,Brazil,98.95,2020/11/09
+2020-11-09 00:00:00.000000,(Non-WHO) + org strain,Brazil,99.02,2020/11/09
 2020-11-09 00:00:00.000000,(Non-WHO) + org strain,Canada,99.9,2020/11/09
 2020-11-09 00:00:00.000000,(Non-WHO) + org strain,Cyprus,100.0,2020/11/09
 2020-11-09 00:00:00.000000,(Non-WHO) + org strain,Denmark,100.0,2020/11/09
@@ -278,10 +278,10 @@ date,variant,location,percent_of_sequences,date_str
 2020-11-09 00:00:00.000000,(Non-WHO) + org strain,Sweden,95.96,2020/11/09
 2020-11-09 00:00:00.000000,(Non-WHO) + org strain,Switzerland,100.0,2020/11/09
 2020-11-09 00:00:00.000000,(Non-WHO) + org strain,United Kingdom,98.04,2020/11/09
-2020-11-09 00:00:00.000000,(Non-WHO) + org strain,United States,99.41,2020/11/09
+2020-11-09 00:00:00.000000,(Non-WHO) + org strain,United States,99.31,2020/11/09
 2020-11-23 00:00:00.000000,(Non-WHO) + org strain,Austria,100.0,2020/11/23
 2020-11-23 00:00:00.000000,(Non-WHO) + org strain,Belgium,100.0,2020/11/23
-2020-11-23 00:00:00.000000,(Non-WHO) + org strain,Brazil,99.28,2020/11/23
+2020-11-23 00:00:00.000000,(Non-WHO) + org strain,Brazil,99.32,2020/11/23
 2020-11-23 00:00:00.000000,(Non-WHO) + org strain,Canada,99.96,2020/11/23
 2020-11-23 00:00:00.000000,(Non-WHO) + org strain,Denmark,99.9,2020/11/23
 2020-11-23 00:00:00.000000,(Non-WHO) + org strain,France,99.48,2020/11/23
@@ -308,10 +308,10 @@ date,variant,location,percent_of_sequences,date_str
 2020-11-23 00:00:00.000000,(Non-WHO) + org strain,Sweden,97.12,2020/11/23
 2020-11-23 00:00:00.000000,(Non-WHO) + org strain,Switzerland,99.21,2020/11/23
 2020-11-23 00:00:00.000000,(Non-WHO) + org strain,United Kingdom,92.13,2020/11/23
-2020-11-23 00:00:00.000000,(Non-WHO) + org strain,United States,98.65,2020/11/23
+2020-11-23 00:00:00.000000,(Non-WHO) + org strain,United States,98.67,2020/11/23
 2020-12-07 00:00:00.000000,(Non-WHO) + org strain,Austria,99.22,2020/12/07
 2020-12-07 00:00:00.000000,(Non-WHO) + org strain,Belgium,98.0,2020/12/07
-2020-12-07 00:00:00.000000,(Non-WHO) + org strain,Brazil,99.28,2020/12/07
+2020-12-07 00:00:00.000000,(Non-WHO) + org strain,Brazil,99.32,2020/12/07
 2020-12-07 00:00:00.000000,(Non-WHO) + org strain,Canada,99.88,2020/12/07
 2020-12-07 00:00:00.000000,(Non-WHO) + org strain,Denmark,99.8,2020/12/07
 2020-12-07 00:00:00.000000,(Non-WHO) + org strain,Finland,100.0,2020/12/07
@@ -341,11 +341,11 @@ date,variant,location,percent_of_sequences,date_str
 2020-12-07 00:00:00.000000,(Non-WHO) + org strain,United States,95.75,2020/12/07
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Australia,92.6,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Belgium,99.41,2020/12/21
-2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Brazil,94.79,2020/12/21
+2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Brazil,94.98,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Canada,99.39,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Denmark,99.44,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Finland,96.33,2020/12/21
-2020-12-21 00:00:00.000000,(Non-WHO) + org strain,France,99.71,2020/12/21
+2020-12-21 00:00:00.000000,(Non-WHO) + org strain,France,99.72,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Germany,99.39,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Greece,95.74,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Hong Kong,96.27,2020/12/21
@@ -358,9 +358,9 @@ date,variant,location,percent_of_sequences,date_str
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Luxembourg,100.0,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Mexico,89.29,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
-2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Netherlands,96.64,2020/12/21
+2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Netherlands,96.67,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Norway,93.66,2020/12/21
-2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Peru,98.56,2020/12/21
+2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Peru,98.58,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Philippines,99.62,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Russia,100.0,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Slovenia,99.65,2020/12/21
@@ -369,11 +369,11 @@ date,variant,location,percent_of_sequences,date_str
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Sweden,99.42,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,Switzerland,99.46,2020/12/21
 2020-12-21 00:00:00.000000,(Non-WHO) + org strain,United Kingdom,59.54,2020/12/21
-2020-12-21 00:00:00.000000,(Non-WHO) + org strain,United States,87.27,2020/12/21
+2020-12-21 00:00:00.000000,(Non-WHO) + org strain,United States,87.29,2020/12/21
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Australia,79.77,2021/01/04
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Austria,87.12,2021/01/04
-2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Belgium,75.73,2021/01/04
-2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Brazil,81.54,2021/01/04
+2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Belgium,75.59,2021/01/04
+2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Brazil,81.94,2021/01/04
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Canada,98.46,2021/01/04
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Chile,88.46,2021/01/04
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Cyprus,97.22,2021/01/04
@@ -396,7 +396,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Netherlands,85.69,2021/01/04
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Norway,88.33,2021/01/04
-2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Peru,86.26,2021/01/04
+2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Peru,85.72,2021/01/04
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Philippines,96.3,2021/01/04
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Poland,98.43,2021/01/04
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Portugal,78.29,2021/01/04
@@ -411,13 +411,13 @@ date,variant,location,percent_of_sequences,date_str
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Sweden,87.7,2021/01/04
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,Switzerland,93.42,2021/01/04
 2021-01-04 00:00:00.000000,(Non-WHO) + org strain,United Arab Emirates,65.61,2021/01/04
-2021-01-04 00:00:00.000000,(Non-WHO) + org strain,United States,85.29,2021/01/04
+2021-01-04 00:00:00.000000,(Non-WHO) + org strain,United States,85.37,2021/01/04
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Belgium,53.83,2021/01/25
-2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Brazil,73.97,2021/01/25
+2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Brazil,73.82,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Canada,96.95,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Denmark,90.21,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Finland,66.11,2021/01/25
-2021-01-25 00:00:00.000000,(Non-WHO) + org strain,France,62.93,2021/01/25
+2021-01-25 00:00:00.000000,(Non-WHO) + org strain,France,62.94,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Germany,87.94,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Greece,61.54,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,India,93.63,2021/01/25
@@ -427,11 +427,11 @@ date,variant,location,percent_of_sequences,date_str
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Lithuania,100.0,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Luxembourg,80.39,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Malaysia,97.6,2021/01/25
-2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Mexico,92.14,2021/01/25
+2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Mexico,92.16,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Netherlands,74.12,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Norway,86.57,2021/01/25
-2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Peru,59.84,2021/01/25
+2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Peru,59.85,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Philippines,93.87,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Poland,90.16,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Portugal,83.9,2021/01/25
@@ -440,18 +440,18 @@ date,variant,location,percent_of_sequences,date_str
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Spain,67.56,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Sweden,90.06,2021/01/25
 2021-01-25 00:00:00.000000,(Non-WHO) + org strain,Switzerland,88.12,2021/01/25
-2021-01-25 00:00:00.000000,(Non-WHO) + org strain,United States,77.22,2021/01/25
+2021-01-25 00:00:00.000000,(Non-WHO) + org strain,United States,77.26,2021/01/25
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Aruba,90.91,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Austria,55.3,2021/02/08
-2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Belgium,53.05,2021/02/08
-2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Brazil,65.57,2021/02/08
+2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Belgium,53.01,2021/02/08
+2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Brazil,65.43,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Canada,94.27,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Croatia,77.34,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Denmark,74.43,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Germany,77.66,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,India,87.56,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Indonesia,96.91,2021/02/08
-2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Japan,95.37,2021/02/08
+2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Japan,95.41,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Latvia,95.97,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Lithuania,95.03,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Luxembourg,47.25,2021/02/08
@@ -460,7 +460,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Netherlands,65.51,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Norway,71.04,2021/02/08
-2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Peru,48.62,2021/02/08
+2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Peru,44.54,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Philippines,95.43,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Poland,80.87,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Portugal,53.09,2021/02/08
@@ -469,7 +469,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Spain,66.45,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Sweden,72.07,2021/02/08
 2021-02-08 00:00:00.000000,(Non-WHO) + org strain,Switzerland,57.59,2021/02/08
-2021-02-08 00:00:00.000000,(Non-WHO) + org strain,United States,64.88,2021/02/08
+2021-02-08 00:00:00.000000,(Non-WHO) + org strain,United States,64.86,2021/02/08
 2021-02-22 00:00:00.000000,(Non-WHO) + org strain,Aruba,65.78,2021/02/22
 2021-02-22 00:00:00.000000,(Non-WHO) + org strain,Canada,82.4,2021/02/22
 2021-02-22 00:00:00.000000,(Non-WHO) + org strain,Croatia,66.15,2021/02/22
@@ -484,7 +484,6 @@ date,variant,location,percent_of_sequences,date_str
 2021-02-22 00:00:00.000000,(Non-WHO) + org strain,Malaysia,98.1,2021/02/22
 2021-02-22 00:00:00.000000,(Non-WHO) + org strain,Mexico,95.0,2021/02/22
 2021-02-22 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
-2021-02-22 00:00:00.000000,(Non-WHO) + org strain,Peru,44.71,2021/02/22
 2021-02-22 00:00:00.000000,(Non-WHO) + org strain,Philippines,69.76,2021/02/22
 2021-02-22 00:00:00.000000,(Non-WHO) + org strain,Russia,92.02,2021/02/22
 2021-02-22 00:00:00.000000,(Non-WHO) + org strain,Slovenia,88.62,2021/02/22
@@ -504,10 +503,11 @@ date,variant,location,percent_of_sequences,date_str
 2021-03-08 00:00:00.000000,(Non-WHO) + org strain,Papua New Guinea,100.0,2021/03/08
 2021-03-08 00:00:00.000000,(Non-WHO) + org strain,Philippines,44.96,2021/03/08
 2021-03-08 00:00:00.000000,(Non-WHO) + org strain,Russia,72.92,2021/03/08
+2021-03-08 00:00:00.000000,(Non-WHO) + org strain,Senegal,73.53,2021/03/08
 2021-03-08 00:00:00.000000,(Non-WHO) + org strain,Slovenia,80.77,2021/03/08
 2021-03-08 00:00:00.000000,(Non-WHO) + org strain,South Korea,82.5,2021/03/08
 2021-03-08 00:00:00.000000,(Non-WHO) + org strain,Turkey,89.52,2021/03/08
-2021-03-08 00:00:00.000000,(Non-WHO) + org strain,United States,50.12,2021/03/08
+2021-03-08 00:00:00.000000,(Non-WHO) + org strain,United States,50.14,2021/03/08
 2021-03-22 00:00:00.000000,(Non-WHO) + org strain,Argentina,65.56,2021/03/22
 2021-03-22 00:00:00.000000,(Non-WHO) + org strain,Canada,45.16,2021/03/22
 2021-03-22 00:00:00.000000,(Non-WHO) + org strain,Hong Kong,83.94,2021/03/22
@@ -519,21 +519,21 @@ date,variant,location,percent_of_sequences,date_str
 2021-03-22 00:00:00.000000,(Non-WHO) + org strain,Russia,78.3,2021/03/22
 2021-03-22 00:00:00.000000,(Non-WHO) + org strain,South Korea,90.16,2021/03/22
 2021-03-22 00:00:00.000000,(Non-WHO) + org strain,Turkey,43.4,2021/03/22
-2021-04-05 00:00:00.000000,(Non-WHO) + org strain,Argentina,39.79,2021/04/05
+2021-04-05 00:00:00.000000,(Non-WHO) + org strain,Argentina,39.59,2021/04/05
 2021-04-05 00:00:00.000000,(Non-WHO) + org strain,Indonesia,92.31,2021/04/05
-2021-04-05 00:00:00.000000,(Non-WHO) + org strain,Malaysia,86.8,2021/04/05
+2021-04-05 00:00:00.000000,(Non-WHO) + org strain,Malaysia,86.92,2021/04/05
 2021-04-05 00:00:00.000000,(Non-WHO) + org strain,Mexico,90.19,2021/04/05
 2021-04-05 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
 2021-04-05 00:00:00.000000,(Non-WHO) + org strain,Papua New Guinea,100.0,2021/04/05
 2021-04-05 00:00:00.000000,(Non-WHO) + org strain,Russia,54.86,2021/04/05
 2021-04-05 00:00:00.000000,(Non-WHO) + org strain,South Korea,72.55,2021/04/05
 2021-04-05 00:00:00.000000,(Non-WHO) + org strain,Turkey,84.62,2021/04/05
-2021-04-19 00:00:00.000000,(Non-WHO) + org strain,Argentina,38.57,2021/04/19
+2021-04-19 00:00:00.000000,(Non-WHO) + org strain,Argentina,38.52,2021/04/19
 2021-04-19 00:00:00.000000,(Non-WHO) + org strain,Indonesia,89.47,2021/04/19
 2021-04-19 00:00:00.000000,(Non-WHO) + org strain,Malaysia,72.29,2021/04/19
 2021-04-19 00:00:00.000000,(Non-WHO) + org strain,Mexico,85.21,2021/04/19
 2021-04-19 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
-2021-04-19 00:00:00.000000,(Non-WHO) + org strain,Russia,75.19,2021/04/19
+2021-04-19 00:00:00.000000,(Non-WHO) + org strain,Russia,75.48,2021/04/19
 2021-04-19 00:00:00.000000,(Non-WHO) + org strain,South Korea,70.99,2021/04/19
 2021-05-03 00:00:00.000000,(Non-WHO) + org strain,Indonesia,82.07,2021/05/03
 2021-05-03 00:00:00.000000,(Non-WHO) + org strain,Mexico,74.9,2021/05/03
@@ -543,7 +543,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-05-03 00:00:00.000000,(Non-WHO) + org strain,South Korea,58.78,2021/05/03
 2021-05-03 00:00:00.000000,(Non-WHO) + org strain,Turkey,98.55,2021/05/03
 2021-05-17 00:00:00.000000,(Non-WHO) + org strain,Indonesia,85.12,2021/05/17
-2021-05-17 00:00:00.000000,(Non-WHO) + org strain,Malaysia,53.98,2021/05/17
+2021-05-17 00:00:00.000000,(Non-WHO) + org strain,Malaysia,50.41,2021/05/17
 2021-05-17 00:00:00.000000,(Non-WHO) + org strain,Mexico,63.46,2021/05/17
 2021-05-17 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
 2021-05-17 00:00:00.000000,(Non-WHO) + org strain,Panama,44.17,2021/05/17
@@ -552,7 +552,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-05-17 00:00:00.000000,(Non-WHO) + org strain,South Korea,57.2,2021/05/17
 2021-05-17 00:00:00.000000,(Non-WHO) + org strain,Turkey,97.41,2021/05/17
 2021-05-31 00:00:00.000000,(Non-WHO) + org strain,Indonesia,67.91,2021/05/31
-2021-05-31 00:00:00.000000,(Non-WHO) + org strain,Mexico,46.37,2021/05/31
+2021-05-31 00:00:00.000000,(Non-WHO) + org strain,Mexico,46.35,2021/05/31
 2021-05-31 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
 2021-05-31 00:00:00.000000,(Non-WHO) + org strain,Panama,30.28,2021/05/31
 2021-05-31 00:00:00.000000,(Non-WHO) + org strain,South Korea,88.41,2021/05/31
@@ -590,6 +590,8 @@ date,variant,location,percent_of_sequences,date_str
 2022-05-02 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
 2022-05-16 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
 2022-05-30 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
+2022-06-13 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
+2022-06-26 00:00:00.000000,(Non-WHO) + org strain,N/A,0.0,
 2020-05-11 00:00:00.000000,Alpha,N/A,0.0,
 2020-05-25 00:00:00.000000,Alpha,N/A,0.0,
 2020-06-08 00:00:00.000000,Alpha,N/A,0.0,
@@ -622,7 +624,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-02-08 00:00:00.000000,Alpha,Bulgaria,77.63,2021/02/08
 2021-02-08 00:00:00.000000,Alpha,Czechia,78.17,2021/02/08
 2021-02-08 00:00:00.000000,Alpha,Finland,49.7,2021/02/08
-2021-02-08 00:00:00.000000,Alpha,France,51.25,2021/02/08
+2021-02-08 00:00:00.000000,Alpha,France,51.24,2021/02/08
 2021-02-08 00:00:00.000000,Alpha,Greece,53.0,2021/02/08
 2021-02-08 00:00:00.000000,Alpha,Ireland,82.79,2021/02/08
 2021-02-08 00:00:00.000000,Alpha,Israel,71.02,2021/02/08
@@ -634,12 +636,12 @@ date,variant,location,percent_of_sequences,date_str
 2021-02-08 00:00:00.000000,Alpha,United Arab Emirates,69.03,2021/02/08
 2021-02-08 00:00:00.000000,Alpha,United Kingdom,92.18,2021/02/08
 2021-02-22 00:00:00.000000,Alpha,Austria,65.24,2021/02/22
-2021-02-22 00:00:00.000000,Alpha,Belgium,48.9,2021/02/22
+2021-02-22 00:00:00.000000,Alpha,Belgium,48.82,2021/02/22
 2021-02-22 00:00:00.000000,Alpha,Bulgaria,93.98,2021/02/22
 2021-02-22 00:00:00.000000,Alpha,Czechia,82.26,2021/02/22
 2021-02-22 00:00:00.000000,Alpha,Denmark,57.64,2021/02/22
 2021-02-22 00:00:00.000000,Alpha,Finland,66.17,2021/02/22
-2021-02-22 00:00:00.000000,Alpha,France,45.88,2021/02/22
+2021-02-22 00:00:00.000000,Alpha,France,45.87,2021/02/22
 2021-02-22 00:00:00.000000,Alpha,Ghana,48.97,2021/02/22
 2021-02-22 00:00:00.000000,Alpha,Greece,48.53,2021/02/22
 2021-02-22 00:00:00.000000,Alpha,Ireland,87.31,2021/02/22
@@ -658,14 +660,14 @@ date,variant,location,percent_of_sequences,date_str
 2021-02-22 00:00:00.000000,Alpha,United Kingdom,96.04,2021/02/22
 2021-03-08 00:00:00.000000,Alpha,Aruba,53.72,2021/03/08
 2021-03-08 00:00:00.000000,Alpha,Austria,68.61,2021/03/08
-2021-03-08 00:00:00.000000,Alpha,Belgium,61.33,2021/03/08
+2021-03-08 00:00:00.000000,Alpha,Belgium,61.3,2021/03/08
 2021-03-08 00:00:00.000000,Alpha,Bulgaria,93.75,2021/03/08
 2021-03-08 00:00:00.000000,Alpha,Croatia,64.75,2021/03/08
 2021-03-08 00:00:00.000000,Alpha,Czechia,75.88,2021/03/08
 2021-03-08 00:00:00.000000,Alpha,Denmark,80.8,2021/03/08
 2021-03-08 00:00:00.000000,Alpha,Estonia,65.81,2021/03/08
 2021-03-08 00:00:00.000000,Alpha,Finland,66.28,2021/03/08
-2021-03-08 00:00:00.000000,Alpha,France,65.7,2021/03/08
+2021-03-08 00:00:00.000000,Alpha,France,65.68,2021/03/08
 2021-03-08 00:00:00.000000,Alpha,Germany,58.48,2021/03/08
 2021-03-08 00:00:00.000000,Alpha,Greece,89.48,2021/03/08
 2021-03-08 00:00:00.000000,Alpha,Ireland,94.41,2021/03/08
@@ -688,7 +690,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-03-08 00:00:00.000000,Alpha,United Kingdom,97.36,2021/03/08
 2021-03-22 00:00:00.000000,Alpha,Australia,50.44,2021/03/22
 2021-03-22 00:00:00.000000,Alpha,Austria,84.51,2021/03/22
-2021-03-22 00:00:00.000000,Alpha,Belgium,76.23,2021/03/22
+2021-03-22 00:00:00.000000,Alpha,Belgium,76.28,2021/03/22
 2021-03-22 00:00:00.000000,Alpha,Bulgaria,98.86,2021/03/22
 2021-03-22 00:00:00.000000,Alpha,Croatia,88.94,2021/03/22
 2021-03-22 00:00:00.000000,Alpha,Czechia,85.77,2021/03/22
@@ -698,7 +700,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-03-22 00:00:00.000000,Alpha,France,78.81,2021/03/22
 2021-03-22 00:00:00.000000,Alpha,Germany,80.54,2021/03/22
 2021-03-22 00:00:00.000000,Alpha,Greece,93.8,2021/03/22
-2021-03-22 00:00:00.000000,Alpha,Ireland,95.26,2021/03/22
+2021-03-22 00:00:00.000000,Alpha,Ireland,95.27,2021/03/22
 2021-03-22 00:00:00.000000,Alpha,Israel,98.47,2021/03/22
 2021-03-22 00:00:00.000000,Alpha,Italy,78.25,2021/03/22
 2021-03-22 00:00:00.000000,Alpha,Kenya,68.38,2021/03/22
@@ -721,9 +723,9 @@ date,variant,location,percent_of_sequences,date_str
 2021-03-22 00:00:00.000000,Alpha,United States,36.74,2021/03/22
 2021-04-05 00:00:00.000000,Alpha,Australia,54.62,2021/04/05
 2021-04-05 00:00:00.000000,Alpha,Austria,91.38,2021/04/05
-2021-04-05 00:00:00.000000,Alpha,Belgium,82.49,2021/04/05
+2021-04-05 00:00:00.000000,Alpha,Belgium,82.56,2021/04/05
 2021-04-05 00:00:00.000000,Alpha,Bulgaria,99.1,2021/04/05
-2021-04-05 00:00:00.000000,Alpha,Canada,45.96,2021/04/05
+2021-04-05 00:00:00.000000,Alpha,Canada,45.97,2021/04/05
 2021-04-05 00:00:00.000000,Alpha,Croatia,95.7,2021/04/05
 2021-04-05 00:00:00.000000,Alpha,Czechia,94.44,2021/04/05
 2021-04-05 00:00:00.000000,Alpha,Denmark,94.11,2021/04/05
@@ -738,7 +740,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-04-05 00:00:00.000000,Alpha,Italy,88.76,2021/04/05
 2021-04-05 00:00:00.000000,Alpha,Japan,55.37,2021/04/05
 2021-04-05 00:00:00.000000,Alpha,Kenya,74.59,2021/04/05
-2021-04-05 00:00:00.000000,Alpha,Latvia,74.51,2021/04/05
+2021-04-05 00:00:00.000000,Alpha,Latvia,74.39,2021/04/05
 2021-04-05 00:00:00.000000,Alpha,Lebanon,100.0,2021/04/05
 2021-04-05 00:00:00.000000,Alpha,Lithuania,79.92,2021/04/05
 2021-04-05 00:00:00.000000,Alpha,Luxembourg,73.86,2021/04/05
@@ -757,23 +759,23 @@ date,variant,location,percent_of_sequences,date_str
 2021-04-19 00:00:00.000000,Alpha,Aruba,68.09,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Australia,48.28,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Austria,82.52,2021/04/19
-2021-04-19 00:00:00.000000,Alpha,Belgium,82.4,2021/04/19
+2021-04-19 00:00:00.000000,Alpha,Belgium,82.43,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Bulgaria,99.73,2021/04/19
-2021-04-19 00:00:00.000000,Alpha,Canada,47.57,2021/04/19
+2021-04-19 00:00:00.000000,Alpha,Canada,47.72,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Croatia,97.51,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Czechia,95.06,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Denmark,96.24,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Estonia,97.26,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Finland,77.61,2021/04/19
-2021-04-19 00:00:00.000000,Alpha,France,77.27,2021/04/19
+2021-04-19 00:00:00.000000,Alpha,France,77.28,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Germany,93.89,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Greece,87.46,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Ireland,92.0,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Israel,89.55,2021/04/19
-2021-04-19 00:00:00.000000,Alpha,Italy,91.34,2021/04/19
-2021-04-19 00:00:00.000000,Alpha,Japan,66.32,2021/04/19
+2021-04-19 00:00:00.000000,Alpha,Italy,91.35,2021/04/19
+2021-04-19 00:00:00.000000,Alpha,Japan,66.33,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Kenya,76.19,2021/04/19
-2021-04-19 00:00:00.000000,Alpha,Latvia,86.74,2021/04/19
+2021-04-19 00:00:00.000000,Alpha,Latvia,86.4,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Lithuania,89.24,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Luxembourg,83.59,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,N/A,0.0,
@@ -789,13 +791,13 @@ date,variant,location,percent_of_sequences,date_str
 2021-04-19 00:00:00.000000,Alpha,Sweden,94.52,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Switzerland,94.09,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,Thailand,91.13,2021/04/19
-2021-04-19 00:00:00.000000,Alpha,United Kingdom,95.39,2021/04/19
+2021-04-19 00:00:00.000000,Alpha,United Kingdom,95.38,2021/04/19
 2021-04-19 00:00:00.000000,Alpha,United States,61.77,2021/04/19
 2021-05-03 00:00:00.000000,Alpha,Aruba,63.7,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,Austria,86.07,2021/05/03
-2021-05-03 00:00:00.000000,Alpha,Belgium,81.54,2021/05/03
+2021-05-03 00:00:00.000000,Alpha,Belgium,81.56,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,Bulgaria,100.0,2021/05/03
-2021-05-03 00:00:00.000000,Alpha,Canada,55.49,2021/05/03
+2021-05-03 00:00:00.000000,Alpha,Canada,55.57,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,Croatia,91.74,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,Czechia,92.89,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,Denmark,96.09,2021/05/03
@@ -808,9 +810,9 @@ date,variant,location,percent_of_sequences,date_str
 2021-05-03 00:00:00.000000,Alpha,Ireland,88.92,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,Israel,89.78,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,Italy,88.53,2021/05/03
-2021-05-03 00:00:00.000000,Alpha,Japan,85.85,2021/05/03
+2021-05-03 00:00:00.000000,Alpha,Japan,85.87,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,Kenya,55.62,2021/05/03
-2021-05-03 00:00:00.000000,Alpha,Latvia,92.49,2021/05/03
+2021-05-03 00:00:00.000000,Alpha,Latvia,92.53,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,Lithuania,93.99,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,Luxembourg,84.1,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,Mongolia,55.45,2021/05/03
@@ -824,14 +826,14 @@ date,variant,location,percent_of_sequences,date_str
 2021-05-03 00:00:00.000000,Alpha,Spain,83.29,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,Sweden,95.45,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,Switzerland,93.51,2021/05/03
-2021-05-03 00:00:00.000000,Alpha,Thailand,97.46,2021/05/03
-2021-05-03 00:00:00.000000,Alpha,United Kingdom,88.04,2021/05/03
+2021-05-03 00:00:00.000000,Alpha,Thailand,96.64,2021/05/03
+2021-05-03 00:00:00.000000,Alpha,United Kingdom,88.13,2021/05/03
 2021-05-03 00:00:00.000000,Alpha,United States,66.11,2021/05/03
 2021-05-17 00:00:00.000000,Alpha,Aruba,54.0,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,Austria,86.37,2021/05/17
-2021-05-17 00:00:00.000000,Alpha,Belgium,81.05,2021/05/17
+2021-05-17 00:00:00.000000,Alpha,Belgium,81.09,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,Bulgaria,100.0,2021/05/17
-2021-05-17 00:00:00.000000,Alpha,Canada,58.92,2021/05/17
+2021-05-17 00:00:00.000000,Alpha,Canada,58.93,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,Croatia,99.22,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,Czechia,90.71,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,Denmark,96.7,2021/05/17
@@ -842,10 +844,10 @@ date,variant,location,percent_of_sequences,date_str
 2021-05-17 00:00:00.000000,Alpha,Greece,79.98,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,Ireland,91.1,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,Israel,64.78,2021/05/17
-2021-05-17 00:00:00.000000,Alpha,Italy,81.09,2021/05/17
+2021-05-17 00:00:00.000000,Alpha,Italy,81.04,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,Japan,90.41,2021/05/17
-2021-05-17 00:00:00.000000,Alpha,Kenya,64.41,2021/05/17
-2021-05-17 00:00:00.000000,Alpha,Latvia,93.9,2021/05/17
+2021-05-17 00:00:00.000000,Alpha,Kenya,64.71,2021/05/17
+2021-05-17 00:00:00.000000,Alpha,Latvia,93.96,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,Lithuania,96.7,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,Luxembourg,76.91,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,N/A,0.0,
@@ -860,17 +862,17 @@ date,variant,location,percent_of_sequences,date_str
 2021-05-17 00:00:00.000000,Alpha,Sweden,96.83,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,Switzerland,91.98,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,Thailand,84.26,2021/05/17
-2021-05-17 00:00:00.000000,Alpha,United Kingdom,65.52,2021/05/17
+2021-05-17 00:00:00.000000,Alpha,United Kingdom,65.74,2021/05/17
 2021-05-17 00:00:00.000000,Alpha,United States,67.06,2021/05/17
 2021-05-31 00:00:00.000000,Alpha,Aruba,49.52,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Austria,80.36,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Belgium,80.11,2021/05/31
-2021-05-31 00:00:00.000000,Alpha,Canada,56.49,2021/05/31
+2021-05-31 00:00:00.000000,Alpha,Canada,56.55,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Croatia,95.89,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Czechia,80.31,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Denmark,99.25,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Finland,75.0,2021/05/31
-2021-05-31 00:00:00.000000,Alpha,France,74.95,2021/05/31
+2021-05-31 00:00:00.000000,Alpha,France,74.96,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Germany,90.33,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Greece,75.18,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Ireland,91.62,2021/05/31
@@ -878,7 +880,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-05-31 00:00:00.000000,Alpha,Italy,76.55,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Japan,92.13,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Kenya,48.04,2021/05/31
-2021-05-31 00:00:00.000000,Alpha,Latvia,94.04,2021/05/31
+2021-05-31 00:00:00.000000,Alpha,Latvia,94.05,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Lithuania,97.02,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Luxembourg,68.97,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,N/A,0.0,
@@ -893,10 +895,10 @@ date,variant,location,percent_of_sequences,date_str
 2021-05-31 00:00:00.000000,Alpha,Sweden,94.88,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Switzerland,89.26,2021/05/31
 2021-05-31 00:00:00.000000,Alpha,Thailand,83.74,2021/05/31
-2021-05-31 00:00:00.000000,Alpha,United States,63.17,2021/05/31
-2021-06-14 00:00:00.000000,Alpha,Belgium,73.66,2021/06/14
+2021-05-31 00:00:00.000000,Alpha,United States,63.16,2021/05/31
+2021-06-14 00:00:00.000000,Alpha,Belgium,73.72,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,Bulgaria,89.11,2021/06/14
-2021-06-14 00:00:00.000000,Alpha,Canada,53.54,2021/06/14
+2021-06-14 00:00:00.000000,Alpha,Canada,53.53,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,Croatia,76.08,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,Czechia,87.28,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,Denmark,98.05,2021/06/14
@@ -906,14 +908,14 @@ date,variant,location,percent_of_sequences,date_str
 2021-06-14 00:00:00.000000,Alpha,Germany,78.63,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,Ireland,82.4,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,Italy,61.72,2021/06/14
-2021-06-14 00:00:00.000000,Alpha,Japan,92.73,2021/06/14
-2021-06-14 00:00:00.000000,Alpha,Latvia,81.76,2021/06/14
+2021-06-14 00:00:00.000000,Alpha,Japan,92.74,2021/06/14
+2021-06-14 00:00:00.000000,Alpha,Latvia,81.82,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,Lithuania,92.6,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,Luxembourg,52.3,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,N/A,0.0,
 2021-06-14 00:00:00.000000,Alpha,Netherlands,85.71,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,Norway,90.97,2021/06/14
-2021-06-14 00:00:00.000000,Alpha,Pakistan,53.89,2021/06/14
+2021-06-14 00:00:00.000000,Alpha,Pakistan,54.17,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,Poland,93.43,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,Romania,75.86,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,Slovakia,88.12,2021/06/14
@@ -924,9 +926,9 @@ date,variant,location,percent_of_sequences,date_str
 2021-06-14 00:00:00.000000,Alpha,Thailand,78.16,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,Turkey,35.21,2021/06/14
 2021-06-14 00:00:00.000000,Alpha,United States,48.51,2021/06/14
-2021-06-28 00:00:00.000000,Alpha,Belgium,51.78,2021/06/28
+2021-06-28 00:00:00.000000,Alpha,Belgium,51.74,2021/06/28
 2021-06-28 00:00:00.000000,Alpha,Bulgaria,54.92,2021/06/28
-2021-06-28 00:00:00.000000,Alpha,Canada,47.71,2021/06/28
+2021-06-28 00:00:00.000000,Alpha,Canada,47.63,2021/06/28
 2021-06-28 00:00:00.000000,Alpha,Czechia,54.08,2021/06/28
 2021-06-28 00:00:00.000000,Alpha,Denmark,78.47,2021/06/28
 2021-06-28 00:00:00.000000,Alpha,Ireland,52.46,2021/06/28
@@ -973,6 +975,8 @@ date,variant,location,percent_of_sequences,date_str
 2022-05-02 00:00:00.000000,Alpha,N/A,0.0,
 2022-05-16 00:00:00.000000,Alpha,N/A,0.0,
 2022-05-30 00:00:00.000000,Alpha,N/A,0.0,
+2022-06-13 00:00:00.000000,Alpha,N/A,0.0,
+2022-06-26 00:00:00.000000,Alpha,N/A,0.0,
 2020-05-11 00:00:00.000000,Beta,N/A,0.0,
 2020-05-25 00:00:00.000000,Beta,N/A,0.0,
 2020-06-08 00:00:00.000000,Beta,N/A,0.0,
@@ -989,11 +993,11 @@ date,variant,location,percent_of_sequences,date_str
 2020-11-09 00:00:00.000000,Beta,N/A,0.0,
 2020-11-09 00:00:00.000000,Beta,South Africa,51.5,2020/11/09
 2020-11-23 00:00:00.000000,Beta,N/A,0.0,
-2020-11-23 00:00:00.000000,Beta,South Africa,69.73,2020/11/23
+2020-11-23 00:00:00.000000,Beta,South Africa,69.82,2020/11/23
 2020-12-07 00:00:00.000000,Beta,N/A,0.0,
 2020-12-07 00:00:00.000000,Beta,South Africa,88.81,2020/12/07
 2020-12-21 00:00:00.000000,Beta,N/A,0.0,
-2020-12-21 00:00:00.000000,Beta,South Africa,95.03,2020/12/21
+2020-12-21 00:00:00.000000,Beta,South Africa,94.98,2020/12/21
 2021-01-04 00:00:00.000000,Beta,N/A,0.0,
 2021-01-04 00:00:00.000000,Beta,South Africa,94.52,2021/01/04
 2021-01-04 00:00:00.000000,Beta,Zimbabwe,87.74,2021/01/04
@@ -1021,7 +1025,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-04-19 00:00:00.000000,Beta,Philippines,49.43,2021/04/19
 2021-04-19 00:00:00.000000,Beta,Qatar,81.08,2021/04/19
 2021-04-19 00:00:00.000000,Beta,Singapore,30.51,2021/04/19
-2021-04-19 00:00:00.000000,Beta,South Africa,92.27,2021/04/19
+2021-04-19 00:00:00.000000,Beta,South Africa,92.39,2021/04/19
 2021-05-03 00:00:00.000000,Beta,N/A,0.0,
 2021-05-03 00:00:00.000000,Beta,Philippines,49.17,2021/05/03
 2021-05-03 00:00:00.000000,Beta,Qatar,60.92,2021/05/03
@@ -1030,9 +1034,10 @@ date,variant,location,percent_of_sequences,date_str
 2021-05-17 00:00:00.000000,Beta,Philippines,48.12,2021/05/17
 2021-05-17 00:00:00.000000,Beta,Qatar,42.77,2021/05/17
 2021-05-17 00:00:00.000000,Beta,South Africa,76.81,2021/05/17
+2021-05-31 00:00:00.000000,Beta,Malaysia,48.97,2021/05/31
 2021-05-31 00:00:00.000000,Beta,N/A,0.0,
 2021-05-31 00:00:00.000000,Beta,Philippines,49.51,2021/05/31
-2021-05-31 00:00:00.000000,Beta,South Africa,64.57,2021/05/31
+2021-05-31 00:00:00.000000,Beta,South Africa,64.52,2021/05/31
 2021-06-14 00:00:00.000000,Beta,N/A,0.0,
 2021-06-14 00:00:00.000000,Beta,Philippines,49.54,2021/06/14
 2021-06-28 00:00:00.000000,Beta,N/A,0.0,
@@ -1062,6 +1067,8 @@ date,variant,location,percent_of_sequences,date_str
 2022-05-02 00:00:00.000000,Beta,N/A,0.0,
 2022-05-16 00:00:00.000000,Beta,N/A,0.0,
 2022-05-30 00:00:00.000000,Beta,N/A,0.0,
+2022-06-13 00:00:00.000000,Beta,N/A,0.0,
+2022-06-26 00:00:00.000000,Beta,N/A,0.0,
 2020-05-11 00:00:00.000000,Delta,N/A,0.0,
 2020-05-25 00:00:00.000000,Delta,N/A,0.0,
 2020-06-08 00:00:00.000000,Delta,N/A,0.0,
@@ -1095,12 +1102,12 @@ date,variant,location,percent_of_sequences,date_str
 2021-05-17 00:00:00.000000,Delta,India,94.92,2021/05/17
 2021-05-17 00:00:00.000000,Delta,N/A,0.0,
 2021-05-17 00:00:00.000000,Delta,Singapore,84.72,2021/05/17
-2021-05-31 00:00:00.000000,Delta,India,98.11,2021/05/31
+2021-05-31 00:00:00.000000,Delta,India,98.12,2021/05/31
 2021-05-31 00:00:00.000000,Delta,N/A,0.0,
 2021-05-31 00:00:00.000000,Delta,Portugal,71.43,2021/05/31
 2021-05-31 00:00:00.000000,Delta,Russia,67.94,2021/05/31
 2021-05-31 00:00:00.000000,Delta,Singapore,90.55,2021/05/31
-2021-05-31 00:00:00.000000,Delta,United Kingdom,72.24,2021/05/31
+2021-05-31 00:00:00.000000,Delta,United Kingdom,71.9,2021/05/31
 2021-06-14 00:00:00.000000,Delta,Australia,45.16,2021/06/14
 2021-06-14 00:00:00.000000,Delta,Austria,45.61,2021/06/14
 2021-06-14 00:00:00.000000,Delta,India,97.74,2021/06/14
@@ -1110,9 +1117,9 @@ date,variant,location,percent_of_sequences,date_str
 2021-06-14 00:00:00.000000,Delta,Portugal,53.85,2021/06/14
 2021-06-14 00:00:00.000000,Delta,Russia,89.85,2021/06/14
 2021-06-14 00:00:00.000000,Delta,Singapore,94.94,2021/06/14
-2021-06-14 00:00:00.000000,Delta,South Africa,48.06,2021/06/14
+2021-06-14 00:00:00.000000,Delta,South Africa,47.89,2021/06/14
 2021-06-14 00:00:00.000000,Delta,Uganda,97.4,2021/06/14
-2021-06-14 00:00:00.000000,Delta,United Kingdom,89.58,2021/06/14
+2021-06-14 00:00:00.000000,Delta,United Kingdom,89.29,2021/06/14
 2021-06-28 00:00:00.000000,Delta,Australia,84.77,2021/06/28
 2021-06-28 00:00:00.000000,Delta,Austria,60.17,2021/06/28
 2021-06-28 00:00:00.000000,Delta,Bangladesh,94.0,2021/06/28
@@ -1130,20 +1137,21 @@ date,variant,location,percent_of_sequences,date_str
 2021-06-28 00:00:00.000000,Delta,Mexico,32.47,2021/06/28
 2021-06-28 00:00:00.000000,Delta,Mozambique,96.04,2021/06/28
 2021-06-28 00:00:00.000000,Delta,N/A,0.0,
+2021-06-28 00:00:00.000000,Delta,Nepal,100.0,2021/06/28
 2021-06-28 00:00:00.000000,Delta,Portugal,83.88,2021/06/28
 2021-06-28 00:00:00.000000,Delta,Russia,94.99,2021/06/28
 2021-06-28 00:00:00.000000,Delta,Rwanda,79.82,2021/06/28
 2021-06-28 00:00:00.000000,Delta,Singapore,96.28,2021/06/28
-2021-06-28 00:00:00.000000,Delta,South Africa,82.86,2021/06/28
+2021-06-28 00:00:00.000000,Delta,South Africa,82.91,2021/06/28
 2021-06-28 00:00:00.000000,Delta,Turkey,49.82,2021/06/28
-2021-06-28 00:00:00.000000,Delta,United Kingdom,97.07,2021/06/28
+2021-06-28 00:00:00.000000,Delta,United Kingdom,96.81,2021/06/28
 2021-06-28 00:00:00.000000,Delta,United States,51.93,2021/06/28
 2021-07-12 00:00:00.000000,Delta,Australia,95.48,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Austria,89.29,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Bangladesh,98.23,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Belgium,78.89,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Bulgaria,63.91,2021/07/12
-2021-07-12 00:00:00.000000,Delta,Canada,52.96,2021/07/12
+2021-07-12 00:00:00.000000,Delta,Canada,53.58,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Croatia,87.33,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Czechia,86.43,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Denmark,78.96,2021/07/12
@@ -1152,7 +1160,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-07-12 00:00:00.000000,Delta,Finland,95.54,2021/07/12
 2021-07-12 00:00:00.000000,Delta,France,68.74,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Germany,79.96,2021/07/12
-2021-07-12 00:00:00.000000,Delta,Ghana,84.72,2021/07/12
+2021-07-12 00:00:00.000000,Delta,Ghana,85.23,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Greece,53.95,2021/07/12
 2021-07-12 00:00:00.000000,Delta,India,97.72,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Indonesia,93.29,2021/07/12
@@ -1160,9 +1168,9 @@ date,variant,location,percent_of_sequences,date_str
 2021-07-12 00:00:00.000000,Delta,Israel,95.82,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Italy,72.27,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Kenya,92.31,2021/07/12
-2021-07-12 00:00:00.000000,Delta,Latvia,75.6,2021/07/12
+2021-07-12 00:00:00.000000,Delta,Latvia,74.33,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Lithuania,69.13,2021/07/12
-2021-07-12 00:00:00.000000,Delta,Mexico,65.49,2021/07/12
+2021-07-12 00:00:00.000000,Delta,Mexico,65.67,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Mozambique,100.0,2021/07/12
 2021-07-12 00:00:00.000000,Delta,N/A,0.0,
 2021-07-12 00:00:00.000000,Delta,Netherlands,81.87,2021/07/12
@@ -1173,14 +1181,14 @@ date,variant,location,percent_of_sequences,date_str
 2021-07-12 00:00:00.000000,Delta,Senegal,83.09,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Slovakia,65.7,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Slovenia,74.41,2021/07/12
-2021-07-12 00:00:00.000000,Delta,South Africa,92.3,2021/07/12
+2021-07-12 00:00:00.000000,Delta,South Africa,92.31,2021/07/12
 2021-07-12 00:00:00.000000,Delta,South Korea,52.79,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Spain,63.97,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Sweden,69.4,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Switzerland,79.83,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Thailand,68.81,2021/07/12
 2021-07-12 00:00:00.000000,Delta,Turkey,96.55,2021/07/12
-2021-07-12 00:00:00.000000,Delta,United Kingdom,98.97,2021/07/12
+2021-07-12 00:00:00.000000,Delta,United Kingdom,98.8,2021/07/12
 2021-07-12 00:00:00.000000,Delta,United States,80.22,2021/07/12
 2021-07-26 00:00:00.000000,Delta,Australia,99.71,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Austria,98.91,2021/07/26
@@ -1188,7 +1196,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-07-26 00:00:00.000000,Delta,Bangladesh,99.64,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Belgium,93.03,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Bulgaria,95.38,2021/07/26
-2021-07-26 00:00:00.000000,Delta,Canada,77.89,2021/07/26
+2021-07-26 00:00:00.000000,Delta,Canada,77.9,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Croatia,95.01,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Czechia,98.42,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Denmark,95.73,2021/07/26
@@ -1196,7 +1204,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-07-26 00:00:00.000000,Delta,Finland,99.02,2021/07/26
 2021-07-26 00:00:00.000000,Delta,France,91.39,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Germany,95.22,2021/07/26
-2021-07-26 00:00:00.000000,Delta,Ghana,96.1,2021/07/26
+2021-07-26 00:00:00.000000,Delta,Ghana,96.32,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Greece,96.84,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Iceland,99.35,2021/07/26
 2021-07-26 00:00:00.000000,Delta,India,99.31,2021/07/26
@@ -1206,7 +1214,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-07-26 00:00:00.000000,Delta,Italy,92.61,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Japan,61.71,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Kenya,98.31,2021/07/26
-2021-07-26 00:00:00.000000,Delta,Latvia,97.12,2021/07/26
+2021-07-26 00:00:00.000000,Delta,Latvia,97.83,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Lithuania,97.97,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Luxembourg,63.41,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Malaysia,89.66,2021/07/26
@@ -1228,15 +1236,15 @@ date,variant,location,percent_of_sequences,date_str
 2021-07-26 00:00:00.000000,Delta,Sweden,94.91,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Switzerland,96.31,2021/07/26
 2021-07-26 00:00:00.000000,Delta,Thailand,66.44,2021/07/26
-2021-07-26 00:00:00.000000,Delta,United Kingdom,99.6,2021/07/26
-2021-07-26 00:00:00.000000,Delta,United States,93.22,2021/07/26
+2021-07-26 00:00:00.000000,Delta,United Kingdom,99.58,2021/07/26
+2021-07-26 00:00:00.000000,Delta,United States,93.23,2021/07/26
 2021-08-09 00:00:00.000000,Delta,Aruba,98.24,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Australia,99.89,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Austria,98.77,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Bangladesh,99.43,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Belgium,98.52,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Bulgaria,98.18,2021/08/09
-2021-08-09 00:00:00.000000,Delta,Canada,93.01,2021/08/09
+2021-08-09 00:00:00.000000,Delta,Canada,92.99,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Croatia,98.22,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Czechia,99.29,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Denmark,99.08,2021/08/09
@@ -1262,6 +1270,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-08-09 00:00:00.000000,Delta,Malaysia,92.29,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Mexico,81.27,2021/08/09
 2021-08-09 00:00:00.000000,Delta,N/A,0.0,
+2021-08-09 00:00:00.000000,Delta,Nepal,100.0,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Netherlands,98.8,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Nigeria,91.81,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Norway,94.6,2021/08/09
@@ -1276,27 +1285,27 @@ date,variant,location,percent_of_sequences,date_str
 2021-08-09 00:00:00.000000,Delta,Sint Maarten (Dutch part),94.56,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Slovakia,98.91,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Slovenia,98.91,2021/08/09
-2021-08-09 00:00:00.000000,Delta,South Africa,98.2,2021/08/09
+2021-08-09 00:00:00.000000,Delta,South Africa,98.13,2021/08/09
 2021-08-09 00:00:00.000000,Delta,South Korea,85.47,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Spain,94.37,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Sri Lanka,89.47,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Sweden,99.14,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Switzerland,97.43,2021/08/09
 2021-08-09 00:00:00.000000,Delta,Thailand,80.74,2021/08/09
-2021-08-09 00:00:00.000000,Delta,United Kingdom,99.73,2021/08/09
+2021-08-09 00:00:00.000000,Delta,United Kingdom,99.72,2021/08/09
 2021-08-09 00:00:00.000000,Delta,United States,97.61,2021/08/09
 2021-08-23 00:00:00.000000,Delta,Aruba,98.66,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Australia,99.97,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Austria,99.82,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Bangladesh,100.0,2021/08/23
-2021-08-23 00:00:00.000000,Delta,Belgium,99.6,2021/08/23
-2021-08-23 00:00:00.000000,Delta,Brazil,61.01,2021/08/23
+2021-08-23 00:00:00.000000,Delta,Belgium,99.58,2021/08/23
+2021-08-23 00:00:00.000000,Delta,Brazil,60.74,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Bulgaria,99.37,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Canada,97.55,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Croatia,99.08,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Czechia,99.43,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Denmark,99.71,2021/08/23
-2021-08-23 00:00:00.000000,Delta,Ecuador,41.99,2021/08/23
+2021-08-23 00:00:00.000000,Delta,Ecuador,41.85,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Estonia,100.0,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Ethiopia,100.0,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Finland,99.68,2021/08/23
@@ -1324,7 +1333,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-08-23 00:00:00.000000,Delta,Nigeria,99.79,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Norway,99.38,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Pakistan,100.0,2021/08/23
-2021-08-23 00:00:00.000000,Delta,Philippines,90.92,2021/08/23
+2021-08-23 00:00:00.000000,Delta,Philippines,90.93,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Poland,99.73,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Portugal,99.9,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Qatar,100.0,2021/08/23
@@ -1334,7 +1343,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-08-23 00:00:00.000000,Delta,Sint Maarten (Dutch part),93.85,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Slovakia,99.84,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Slovenia,99.8,2021/08/23
-2021-08-23 00:00:00.000000,Delta,South Africa,99.2,2021/08/23
+2021-08-23 00:00:00.000000,Delta,South Africa,99.12,2021/08/23
 2021-08-23 00:00:00.000000,Delta,South Korea,96.86,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Spain,97.87,2021/08/23
 2021-08-23 00:00:00.000000,Delta,Sri Lanka,96.0,2021/08/23
@@ -1352,9 +1361,9 @@ date,variant,location,percent_of_sequences,date_str
 2021-09-06 00:00:00.000000,Delta,Bangladesh,100.0,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Belgium,99.71,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Botswana,100.0,2021/09/06
-2021-09-06 00:00:00.000000,Delta,Brazil,79.86,2021/09/06
+2021-09-06 00:00:00.000000,Delta,Brazil,79.78,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Bulgaria,99.54,2021/09/06
-2021-09-06 00:00:00.000000,Delta,Canada,98.99,2021/09/06
+2021-09-06 00:00:00.000000,Delta,Canada,98.96,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Chile,40.77,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Croatia,99.9,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Czechia,99.64,2021/09/06
@@ -1362,7 +1371,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-09-06 00:00:00.000000,Delta,Ecuador,62.83,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Estonia,100.0,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Finland,100.0,2021/09/06
-2021-09-06 00:00:00.000000,Delta,France,98.66,2021/09/06
+2021-09-06 00:00:00.000000,Delta,France,98.67,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Germany,99.74,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Greece,99.71,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Iceland,100.0,2021/09/06
@@ -1371,14 +1380,14 @@ date,variant,location,percent_of_sequences,date_str
 2021-09-06 00:00:00.000000,Delta,Ireland,99.95,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Israel,99.88,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Italy,99.73,2021/09/06
-2021-09-06 00:00:00.000000,Delta,Japan,98.11,2021/09/06
+2021-09-06 00:00:00.000000,Delta,Japan,98.12,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Kenya,100.0,2021/09/06
-2021-09-06 00:00:00.000000,Delta,Latvia,99.76,2021/09/06
+2021-09-06 00:00:00.000000,Delta,Latvia,100.0,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Lithuania,100.0,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Luxembourg,100.0,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Malaysia,99.74,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Maldives,100.0,2021/09/06
-2021-09-06 00:00:00.000000,Delta,Mexico,98.73,2021/09/06
+2021-09-06 00:00:00.000000,Delta,Mexico,98.69,2021/09/06
 2021-09-06 00:00:00.000000,Delta,N/A,0.0,
 2021-09-06 00:00:00.000000,Delta,Nepal,100.0,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Netherlands,99.68,2021/09/06
@@ -1388,8 +1397,8 @@ date,variant,location,percent_of_sequences,date_str
 2021-09-06 00:00:00.000000,Delta,Pakistan,97.09,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Panama,52.99,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Papua New Guinea,100.0,2021/09/06
-2021-09-06 00:00:00.000000,Delta,Peru,43.24,2021/09/06
-2021-09-06 00:00:00.000000,Delta,Philippines,98.2,2021/09/06
+2021-09-06 00:00:00.000000,Delta,Peru,43.04,2021/09/06
+2021-09-06 00:00:00.000000,Delta,Philippines,98.26,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Poland,99.89,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Portugal,99.82,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Qatar,100.0,2021/09/06
@@ -1410,17 +1419,17 @@ date,variant,location,percent_of_sequences,date_str
 2021-09-06 00:00:00.000000,Delta,United Kingdom,99.95,2021/09/06
 2021-09-06 00:00:00.000000,Delta,United States,99.51,2021/09/06
 2021-09-06 00:00:00.000000,Delta,Vietnam,100.0,2021/09/06
-2021-09-20 00:00:00.000000,Delta,Argentina,40.53,2021/09/20
+2021-09-20 00:00:00.000000,Delta,Argentina,40.59,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Aruba,100.0,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Australia,100.0,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Austria,100.0,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Bangladesh,100.0,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Belgium,99.94,2021/09/20
-2021-09-20 00:00:00.000000,Delta,Brazil,89.83,2021/09/20
+2021-09-20 00:00:00.000000,Delta,Brazil,89.77,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Bulgaria,100.0,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Canada,99.51,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Chile,72.01,2021/09/20
-2021-09-20 00:00:00.000000,Delta,Colombia,60.63,2021/09/20
+2021-09-20 00:00:00.000000,Delta,Colombia,60.71,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Croatia,100.0,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Czechia,100.0,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Denmark,99.96,2021/09/20
@@ -1444,7 +1453,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-09-20 00:00:00.000000,Delta,Lithuania,100.0,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Luxembourg,100.0,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Malaysia,99.63,2021/09/20
-2021-09-20 00:00:00.000000,Delta,Mexico,99.46,2021/09/20
+2021-09-20 00:00:00.000000,Delta,Mexico,99.47,2021/09/20
 2021-09-20 00:00:00.000000,Delta,N/A,0.0,
 2021-09-20 00:00:00.000000,Delta,Nepal,100.0,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Netherlands,99.96,2021/09/20
@@ -1453,7 +1462,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-09-20 00:00:00.000000,Delta,Norway,99.96,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Panama,66.98,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Papua New Guinea,100.0,2021/09/20
-2021-09-20 00:00:00.000000,Delta,Peru,58.79,2021/09/20
+2021-09-20 00:00:00.000000,Delta,Peru,58.96,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Poland,100.0,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Portugal,99.34,2021/09/20
 2021-09-20 00:00:00.000000,Delta,Qatar,100.0,2021/09/20
@@ -1480,11 +1489,11 @@ date,variant,location,percent_of_sequences,date_str
 2021-10-04 00:00:00.000000,Delta,Bahrain,100.0,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Bangladesh,100.0,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Belgium,99.86,2021/10/04
-2021-10-04 00:00:00.000000,Delta,Brazil,94.56,2021/10/04
+2021-10-04 00:00:00.000000,Delta,Brazil,94.57,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Bulgaria,99.89,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Canada,99.93,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Chile,89.42,2021/10/04
-2021-10-04 00:00:00.000000,Delta,Colombia,73.57,2021/10/04
+2021-10-04 00:00:00.000000,Delta,Colombia,74.67,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Croatia,100.0,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Czechia,100.0,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Denmark,100.0,2021/10/04
@@ -1503,17 +1512,17 @@ date,variant,location,percent_of_sequences,date_str
 2021-10-04 00:00:00.000000,Delta,Japan,99.72,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Kenya,99.01,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Kosovo,100.0,2021/10/04
-2021-10-04 00:00:00.000000,Delta,Latvia,99.18,2021/10/04
+2021-10-04 00:00:00.000000,Delta,Latvia,99.2,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Lithuania,100.0,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Luxembourg,100.0,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Malaysia,99.85,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Maldives,100.0,2021/10/04
-2021-10-04 00:00:00.000000,Delta,Mexico,99.71,2021/10/04
+2021-10-04 00:00:00.000000,Delta,Mexico,99.68,2021/10/04
 2021-10-04 00:00:00.000000,Delta,N/A,0.0,
-2021-10-04 00:00:00.000000,Delta,Nepal,95.81,2021/10/04
+2021-10-04 00:00:00.000000,Delta,Nepal,96.53,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Netherlands,99.87,2021/10/04
 2021-10-04 00:00:00.000000,Delta,New Zealand,100.0,2021/10/04
-2021-10-04 00:00:00.000000,Delta,Nigeria,99.0,2021/10/04
+2021-10-04 00:00:00.000000,Delta,Nigeria,99.01,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Norway,100.0,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Papua New Guinea,100.0,2021/10/04
 2021-10-04 00:00:00.000000,Delta,Peru,72.31,2021/10/04
@@ -1534,19 +1543,19 @@ date,variant,location,percent_of_sequences,date_str
 2021-10-04 00:00:00.000000,Delta,Turkey,99.93,2021/10/04
 2021-10-04 00:00:00.000000,Delta,United Kingdom,99.93,2021/10/04
 2021-10-04 00:00:00.000000,Delta,United States,99.76,2021/10/04
-2021-10-18 00:00:00.000000,Delta,Argentina,48.39,2021/10/18
+2021-10-18 00:00:00.000000,Delta,Argentina,49.07,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Australia,100.0,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Austria,100.0,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Bahrain,100.0,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Bangladesh,100.0,2021/10/18
-2021-10-18 00:00:00.000000,Delta,Belgium,99.97,2021/10/18
+2021-10-18 00:00:00.000000,Delta,Belgium,99.94,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Bosnia and Herzegovina,100.0,2021/10/18
-2021-10-18 00:00:00.000000,Delta,Brazil,98.28,2021/10/18
+2021-10-18 00:00:00.000000,Delta,Brazil,98.23,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Bulgaria,100.0,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Cambodia,81.45,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Canada,99.9,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Chile,95.09,2021/10/18
-2021-10-18 00:00:00.000000,Delta,Colombia,86.52,2021/10/18
+2021-10-18 00:00:00.000000,Delta,Colombia,86.68,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Costa Rica,100.0,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Croatia,100.0,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Czechia,100.0,2021/10/18
@@ -1555,6 +1564,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-10-18 00:00:00.000000,Delta,Estonia,100.0,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Finland,100.0,2021/10/18
 2021-10-18 00:00:00.000000,Delta,France,99.57,2021/10/18
+2021-10-18 00:00:00.000000,Delta,Georgia,100.0,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Germany,99.98,2021/10/18
 2021-10-18 00:00:00.000000,Delta,India,99.78,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Indonesia,99.16,2021/10/18
@@ -1571,6 +1581,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-10-18 00:00:00.000000,Delta,Netherlands,99.83,2021/10/18
 2021-10-18 00:00:00.000000,Delta,New Zealand,100.0,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Norway,99.93,2021/10/18
+2021-10-18 00:00:00.000000,Delta,Panama,90.0,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Papua New Guinea,100.0,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Peru,88.57,2021/10/18
 2021-10-18 00:00:00.000000,Delta,Poland,100.0,2021/10/18
@@ -1590,7 +1601,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-10-18 00:00:00.000000,Delta,Turkey,99.94,2021/10/18
 2021-10-18 00:00:00.000000,Delta,United Kingdom,99.96,2021/10/18
 2021-10-18 00:00:00.000000,Delta,United States,99.81,2021/10/18
-2021-11-01 00:00:00.000000,Delta,Argentina,74.74,2021/11/01
+2021-11-01 00:00:00.000000,Delta,Argentina,74.78,2021/11/01
 2021-11-01 00:00:00.000000,Delta,Australia,100.0,2021/11/01
 2021-11-01 00:00:00.000000,Delta,Austria,100.0,2021/11/01
 2021-11-01 00:00:00.000000,Delta,Bahrain,100.0,2021/11/01
@@ -1601,7 +1612,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-11-01 00:00:00.000000,Delta,Cambodia,96.06,2021/11/01
 2021-11-01 00:00:00.000000,Delta,Canada,99.93,2021/11/01
 2021-11-01 00:00:00.000000,Delta,Chile,98.93,2021/11/01
-2021-11-01 00:00:00.000000,Delta,Colombia,88.68,2021/11/01
+2021-11-01 00:00:00.000000,Delta,Colombia,88.76,2021/11/01
 2021-11-01 00:00:00.000000,Delta,Costa Rica,99.35,2021/11/01
 2021-11-01 00:00:00.000000,Delta,Croatia,100.0,2021/11/01
 2021-11-01 00:00:00.000000,Delta,Czechia,99.82,2021/11/01
@@ -1635,7 +1646,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-11-01 00:00:00.000000,Delta,Singapore,100.0,2021/11/01
 2021-11-01 00:00:00.000000,Delta,Slovakia,100.0,2021/11/01
 2021-11-01 00:00:00.000000,Delta,Slovenia,100.0,2021/11/01
-2021-11-01 00:00:00.000000,Delta,South Africa,98.26,2021/11/01
+2021-11-01 00:00:00.000000,Delta,South Africa,97.69,2021/11/01
 2021-11-01 00:00:00.000000,Delta,South Korea,100.0,2021/11/01
 2021-11-01 00:00:00.000000,Delta,Spain,99.96,2021/11/01
 2021-11-01 00:00:00.000000,Delta,Sri Lanka,100.0,2021/11/01
@@ -1646,7 +1657,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-11-01 00:00:00.000000,Delta,Ukraine,100.0,2021/11/01
 2021-11-01 00:00:00.000000,Delta,United Kingdom,99.98,2021/11/01
 2021-11-01 00:00:00.000000,Delta,United States,99.75,2021/11/01
-2021-11-15 00:00:00.000000,Delta,Argentina,83.72,2021/11/15
+2021-11-15 00:00:00.000000,Delta,Argentina,83.79,2021/11/15
 2021-11-15 00:00:00.000000,Delta,Australia,100.0,2021/11/15
 2021-11-15 00:00:00.000000,Delta,Austria,99.76,2021/11/15
 2021-11-15 00:00:00.000000,Delta,Bahrain,100.0,2021/11/15
@@ -1661,7 +1672,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-11-15 00:00:00.000000,Delta,Canada,99.94,2021/11/15
 2021-11-15 00:00:00.000000,Delta,Chile,98.35,2021/11/15
 2021-11-15 00:00:00.000000,Delta,China,100.0,2021/11/15
-2021-11-15 00:00:00.000000,Delta,Colombia,95.44,2021/11/15
+2021-11-15 00:00:00.000000,Delta,Colombia,95.49,2021/11/15
 2021-11-15 00:00:00.000000,Delta,Costa Rica,99.39,2021/11/15
 2021-11-15 00:00:00.000000,Delta,Croatia,100.0,2021/11/15
 2021-11-15 00:00:00.000000,Delta,Czechia,100.0,2021/11/15
@@ -1705,24 +1716,24 @@ date,variant,location,percent_of_sequences,date_str
 2021-11-15 00:00:00.000000,Delta,Turkey,99.87,2021/11/15
 2021-11-15 00:00:00.000000,Delta,United Kingdom,99.99,2021/11/15
 2021-11-15 00:00:00.000000,Delta,United States,99.62,2021/11/15
-2021-11-29 00:00:00.000000,Delta,Argentina,92.81,2021/11/29
+2021-11-29 00:00:00.000000,Delta,Argentina,92.87,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Australia,99.65,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Austria,98.71,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Bangladesh,100.0,2021/11/29
-2021-11-29 00:00:00.000000,Delta,Belgium,99.77,2021/11/29
+2021-11-29 00:00:00.000000,Delta,Belgium,99.8,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Bosnia and Herzegovina,100.0,2021/11/29
-2021-11-29 00:00:00.000000,Delta,Brazil,99.5,2021/11/29
+2021-11-29 00:00:00.000000,Delta,Brazil,99.48,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Brunei,100.0,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Bulgaria,100.0,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Cambodia,100.0,2021/11/29
-2021-11-29 00:00:00.000000,Delta,Canada,99.57,2021/11/29
+2021-11-29 00:00:00.000000,Delta,Canada,99.58,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Chile,98.73,2021/11/29
-2021-11-29 00:00:00.000000,Delta,Colombia,95.82,2021/11/29
+2021-11-29 00:00:00.000000,Delta,Colombia,96.0,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Costa Rica,100.0,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Croatia,100.0,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Czechia,99.74,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Denmark,99.95,2021/11/29
-2021-11-29 00:00:00.000000,Delta,Ecuador,92.59,2021/11/29
+2021-11-29 00:00:00.000000,Delta,Ecuador,92.75,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Estonia,100.0,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Finland,99.83,2021/11/29
 2021-11-29 00:00:00.000000,Delta,France,99.08,2021/11/29
@@ -1740,7 +1751,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-11-29 00:00:00.000000,Delta,Luxembourg,100.0,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Malaysia,99.77,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Malta,100.0,2021/11/29
-2021-11-29 00:00:00.000000,Delta,Mexico,99.47,2021/11/29
+2021-11-29 00:00:00.000000,Delta,Mexico,99.48,2021/11/29
 2021-11-29 00:00:00.000000,Delta,N/A,0.0,
 2021-11-29 00:00:00.000000,Delta,Netherlands,98.28,2021/11/29
 2021-11-29 00:00:00.000000,Delta,New Zealand,100.0,2021/11/29
@@ -1762,28 +1773,28 @@ date,variant,location,percent_of_sequences,date_str
 2021-11-29 00:00:00.000000,Delta,United Kingdom,99.81,2021/11/29
 2021-11-29 00:00:00.000000,Delta,United States,99.55,2021/11/29
 2021-11-29 00:00:00.000000,Delta,Vietnam,99.14,2021/11/29
-2021-12-13 00:00:00.000000,Delta,Argentina,92.53,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Argentina,92.48,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Aruba,100.0,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Australia,88.44,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Austria,78.7,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Bangladesh,98.63,2021/12/13
-2021-12-13 00:00:00.000000,Delta,Belgium,92.35,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Belgium,93.12,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Bosnia and Herzegovina,99.51,2021/12/13
-2021-12-13 00:00:00.000000,Delta,Brazil,97.11,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Brazil,97.06,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Brunei,100.0,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Bulgaria,100.0,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Cambodia,99.2,2021/12/13
-2021-12-13 00:00:00.000000,Delta,Canada,85.74,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Canada,85.72,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Chile,90.77,2021/12/13
-2021-12-13 00:00:00.000000,Delta,Colombia,94.92,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Colombia,94.62,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Costa Rica,99.29,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Croatia,99.6,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Czechia,99.57,2021/12/13
-2021-12-13 00:00:00.000000,Delta,Denmark,94.86,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Denmark,94.84,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Dominican Republic,97.9,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Estonia,100.0,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Finland,93.46,2021/12/13
-2021-12-13 00:00:00.000000,Delta,France,95.92,2021/12/13
+2021-12-13 00:00:00.000000,Delta,France,95.9,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Georgia,100.0,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Germany,97.51,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Greece,98.4,2021/12/13
@@ -1792,26 +1803,26 @@ date,variant,location,percent_of_sequences,date_str
 2021-12-13 00:00:00.000000,Delta,Indonesia,97.24,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Ireland,89.88,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Israel,94.65,2021/12/13
-2021-12-13 00:00:00.000000,Delta,Italy,99.04,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Italy,99.02,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Jamaica,97.09,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Japan,92.42,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Latvia,99.59,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Liechtenstein,99.27,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Lithuania,99.61,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Luxembourg,99.65,2021/12/13
-2021-12-13 00:00:00.000000,Delta,Malaysia,98.34,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Malaysia,98.35,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Maldives,88.5,2021/12/13
-2021-12-13 00:00:00.000000,Delta,Mexico,98.68,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Mexico,98.69,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Montenegro,96.45,2021/12/13
 2021-12-13 00:00:00.000000,Delta,N/A,0.0,
 2021-12-13 00:00:00.000000,Delta,Nepal,100.0,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Netherlands,94.51,2021/12/13
 2021-12-13 00:00:00.000000,Delta,New Zealand,99.15,2021/12/13
-2021-12-13 00:00:00.000000,Delta,Norway,73.42,2021/12/13
-2021-12-13 00:00:00.000000,Delta,Panama,99.27,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Norway,73.52,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Panama,99.31,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Peru,97.54,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Poland,99.89,2021/12/13
-2021-12-13 00:00:00.000000,Delta,Portugal,94.27,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Portugal,94.28,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Romania,92.16,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Russia,95.92,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Singapore,93.19,2021/12/13
@@ -1820,17 +1831,17 @@ date,variant,location,percent_of_sequences,date_str
 2021-12-13 00:00:00.000000,Delta,South Korea,95.39,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Spain,94.56,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Sri Lanka,99.55,2021/12/13
-2021-12-13 00:00:00.000000,Delta,Sweden,95.86,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Sweden,95.92,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Switzerland,95.23,2021/12/13
-2021-12-13 00:00:00.000000,Delta,Thailand,98.71,2021/12/13
+2021-12-13 00:00:00.000000,Delta,Thailand,97.3,2021/12/13
 2021-12-13 00:00:00.000000,Delta,Turkey,99.92,2021/12/13
-2021-12-13 00:00:00.000000,Delta,United Kingdom,90.72,2021/12/13
+2021-12-13 00:00:00.000000,Delta,United Kingdom,90.73,2021/12/13
 2021-12-13 00:00:00.000000,Delta,United States,96.18,2021/12/13
-2021-12-27 00:00:00.000000,Delta,Argentina,56.56,2021/12/27
+2021-12-27 00:00:00.000000,Delta,Argentina,56.15,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Bangladesh,90.0,2021/12/27
-2021-12-27 00:00:00.000000,Delta,Belgium,62.43,2021/12/27
+2021-12-27 00:00:00.000000,Delta,Belgium,55.42,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Bosnia and Herzegovina,97.44,2021/12/27
-2021-12-27 00:00:00.000000,Delta,Brazil,64.67,2021/12/27
+2021-12-27 00:00:00.000000,Delta,Brazil,64.77,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Bulgaria,85.81,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Croatia,97.17,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Czechia,90.01,2021/12/27
@@ -1840,48 +1851,48 @@ date,variant,location,percent_of_sequences,date_str
 2021-12-27 00:00:00.000000,Delta,Georgia,60.34,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Germany,82.68,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Greece,52.01,2021/12/27
-2021-12-27 00:00:00.000000,Delta,India,62.15,2021/12/27
+2021-12-27 00:00:00.000000,Delta,India,62.34,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Indonesia,67.9,2021/12/27
-2021-12-27 00:00:00.000000,Delta,Italy,71.0,2021/12/27
-2021-12-27 00:00:00.000000,Delta,Japan,62.48,2021/12/27
+2021-12-27 00:00:00.000000,Delta,Italy,71.13,2021/12/27
+2021-12-27 00:00:00.000000,Delta,Japan,62.43,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Latvia,89.36,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Liechtenstein,74.53,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Lithuania,79.58,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Luxembourg,78.57,2021/12/27
-2021-12-27 00:00:00.000000,Delta,Malaysia,50.99,2021/12/27
+2021-12-27 00:00:00.000000,Delta,Malaysia,50.93,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Maldives,72.22,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Malta,68.39,2021/12/27
-2021-12-27 00:00:00.000000,Delta,Mexico,54.07,2021/12/27
+2021-12-27 00:00:00.000000,Delta,Mexico,54.06,2021/12/27
 2021-12-27 00:00:00.000000,Delta,N/A,0.0,
-2021-12-27 00:00:00.000000,Delta,Netherlands,72.37,2021/12/27
+2021-12-27 00:00:00.000000,Delta,Netherlands,72.39,2021/12/27
 2021-12-27 00:00:00.000000,Delta,New Zealand,86.62,2021/12/27
-2021-12-27 00:00:00.000000,Delta,Panama,57.44,2021/12/27
+2021-12-27 00:00:00.000000,Delta,Panama,57.36,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Peru,68.19,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Poland,96.44,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Portugal,64.99,2021/12/27
-2021-12-27 00:00:00.000000,Delta,Romania,87.5,2021/12/27
+2021-12-27 00:00:00.000000,Delta,Romania,87.25,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Russia,55.77,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Slovakia,96.11,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Slovenia,84.52,2021/12/27
 2021-12-27 00:00:00.000000,Delta,South Korea,94.27,2021/12/27
-2021-12-27 00:00:00.000000,Delta,Spain,56.94,2021/12/27
+2021-12-27 00:00:00.000000,Delta,Spain,57.13,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Sri Lanka,80.84,2021/12/27
-2021-12-27 00:00:00.000000,Delta,Sweden,63.23,2021/12/27
-2021-12-27 00:00:00.000000,Delta,Switzerland,60.84,2021/12/27
+2021-12-27 00:00:00.000000,Delta,Sweden,62.47,2021/12/27
+2021-12-27 00:00:00.000000,Delta,Switzerland,60.86,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Thailand,51.84,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Turkey,92.59,2021/12/27
 2021-12-27 00:00:00.000000,Delta,Vietnam,88.37,2021/12/27
 2022-01-10 00:00:00.000000,Delta,Bulgaria,54.03,2022/01/10
 2022-01-10 00:00:00.000000,Delta,Croatia,59.7,2022/01/10
 2022-01-10 00:00:00.000000,Delta,Estonia,99.04,2022/01/10
-2022-01-10 00:00:00.000000,Delta,Latvia,60.33,2022/01/10
+2022-01-10 00:00:00.000000,Delta,Latvia,60.22,2022/01/10
 2022-01-10 00:00:00.000000,Delta,Lithuania,50.26,2022/01/10
 2022-01-10 00:00:00.000000,Delta,N/A,0.0,
 2022-01-10 00:00:00.000000,Delta,New Zealand,57.56,2022/01/10
 2022-01-10 00:00:00.000000,Delta,Poland,62.71,2022/01/10
 2022-01-10 00:00:00.000000,Delta,Russia,55.59,2022/01/10
 2022-01-10 00:00:00.000000,Delta,Slovakia,71.69,2022/01/10
-2022-01-10 00:00:00.000000,Delta,South Korea,60.14,2022/01/10
+2022-01-10 00:00:00.000000,Delta,South Korea,60.08,2022/01/10
 2022-01-10 00:00:00.000000,Delta,Turkey,60.67,2022/01/10
 2022-01-10 00:00:00.000000,Delta,Vietnam,69.17,2022/01/10
 2022-01-24 00:00:00.000000,Delta,N/A,0.0,
@@ -1894,6 +1905,8 @@ date,variant,location,percent_of_sequences,date_str
 2022-05-02 00:00:00.000000,Delta,N/A,0.0,
 2022-05-16 00:00:00.000000,Delta,N/A,0.0,
 2022-05-30 00:00:00.000000,Delta,N/A,0.0,
+2022-06-13 00:00:00.000000,Delta,N/A,0.0,
+2022-06-26 00:00:00.000000,Delta,N/A,0.0,
 2020-05-11 00:00:00.000000,Eta,N/A,0.0,
 2020-05-25 00:00:00.000000,Eta,N/A,0.0,
 2020-06-08 00:00:00.000000,Eta,N/A,0.0,
@@ -1954,6 +1967,8 @@ date,variant,location,percent_of_sequences,date_str
 2022-05-02 00:00:00.000000,Eta,N/A,0.0,
 2022-05-16 00:00:00.000000,Eta,N/A,0.0,
 2022-05-30 00:00:00.000000,Eta,N/A,0.0,
+2022-06-13 00:00:00.000000,Eta,N/A,0.0,
+2022-06-26 00:00:00.000000,Eta,N/A,0.0,
 2020-05-11 00:00:00.000000,Gamma,N/A,0.0,
 2020-05-25 00:00:00.000000,Gamma,N/A,0.0,
 2020-06-08 00:00:00.000000,Gamma,N/A,0.0,
@@ -1974,58 +1989,58 @@ date,variant,location,percent_of_sequences,date_str
 2021-01-04 00:00:00.000000,Gamma,N/A,0.0,
 2021-01-25 00:00:00.000000,Gamma,N/A,0.0,
 2021-02-08 00:00:00.000000,Gamma,N/A,0.0,
-2021-02-22 00:00:00.000000,Gamma,Brazil,55.39,2021/02/22
+2021-02-22 00:00:00.000000,Gamma,Brazil,55.63,2021/02/22
 2021-02-22 00:00:00.000000,Gamma,N/A,0.0,
-2021-03-08 00:00:00.000000,Gamma,Brazil,77.26,2021/03/08
+2021-03-08 00:00:00.000000,Gamma,Brazil,77.08,2021/03/08
 2021-03-08 00:00:00.000000,Gamma,N/A,0.0,
-2021-03-22 00:00:00.000000,Gamma,Brazil,84.88,2021/03/22
+2021-03-22 00:00:00.000000,Gamma,Brazil,84.91,2021/03/22
 2021-03-22 00:00:00.000000,Gamma,N/A,0.0,
-2021-04-05 00:00:00.000000,Gamma,Brazil,87.82,2021/04/05
+2021-04-05 00:00:00.000000,Gamma,Brazil,87.79,2021/04/05
 2021-04-05 00:00:00.000000,Gamma,N/A,0.0,
-2021-04-19 00:00:00.000000,Gamma,Brazil,92.62,2021/04/19
+2021-04-19 00:00:00.000000,Gamma,Brazil,92.58,2021/04/19
 2021-04-19 00:00:00.000000,Gamma,N/A,0.0,
 2021-04-19 00:00:00.000000,Gamma,Uruguay,51.35,2021/04/19
-2021-05-03 00:00:00.000000,Gamma,Argentina,41.96,2021/05/03
-2021-05-03 00:00:00.000000,Gamma,Brazil,95.84,2021/05/03
+2021-05-03 00:00:00.000000,Gamma,Argentina,42.14,2021/05/03
+2021-05-03 00:00:00.000000,Gamma,Brazil,95.85,2021/05/03
 2021-05-03 00:00:00.000000,Gamma,Chile,50.84,2021/05/03
 2021-05-03 00:00:00.000000,Gamma,N/A,0.0,
-2021-05-17 00:00:00.000000,Gamma,Argentina,55.1,2021/05/17
-2021-05-17 00:00:00.000000,Gamma,Brazil,96.54,2021/05/17
+2021-05-17 00:00:00.000000,Gamma,Argentina,54.78,2021/05/17
+2021-05-17 00:00:00.000000,Gamma,Brazil,96.52,2021/05/17
 2021-05-17 00:00:00.000000,Gamma,Chile,50.87,2021/05/17
 2021-05-17 00:00:00.000000,Gamma,N/A,0.0,
 2021-05-17 00:00:00.000000,Gamma,Trinidad and Tobago,82.88,2021/05/17
-2021-05-31 00:00:00.000000,Gamma,Argentina,58.99,2021/05/31
-2021-05-31 00:00:00.000000,Gamma,Brazil,95.37,2021/05/31
+2021-05-31 00:00:00.000000,Gamma,Argentina,59.06,2021/05/31
+2021-05-31 00:00:00.000000,Gamma,Brazil,95.38,2021/05/31
 2021-05-31 00:00:00.000000,Gamma,Chile,62.75,2021/05/31
 2021-05-31 00:00:00.000000,Gamma,N/A,0.0,
-2021-06-14 00:00:00.000000,Gamma,Argentina,64.25,2021/06/14
-2021-06-14 00:00:00.000000,Gamma,Brazil,94.97,2021/06/14
+2021-06-14 00:00:00.000000,Gamma,Argentina,64.34,2021/06/14
+2021-06-14 00:00:00.000000,Gamma,Brazil,94.95,2021/06/14
 2021-06-14 00:00:00.000000,Gamma,Chile,67.54,2021/06/14
 2021-06-14 00:00:00.000000,Gamma,Mexico,38.69,2021/06/14
 2021-06-14 00:00:00.000000,Gamma,N/A,0.0,
-2021-06-28 00:00:00.000000,Gamma,Argentina,68.02,2021/06/28
-2021-06-28 00:00:00.000000,Gamma,Brazil,95.25,2021/06/28
+2021-06-28 00:00:00.000000,Gamma,Argentina,67.85,2021/06/28
+2021-06-28 00:00:00.000000,Gamma,Brazil,95.23,2021/06/28
 2021-06-28 00:00:00.000000,Gamma,Chile,70.48,2021/06/28
 2021-06-28 00:00:00.000000,Gamma,N/A,0.0,
 2021-07-12 00:00:00.000000,Gamma,Argentina,71.63,2021/07/12
-2021-07-12 00:00:00.000000,Gamma,Brazil,92.42,2021/07/12
+2021-07-12 00:00:00.000000,Gamma,Brazil,92.41,2021/07/12
 2021-07-12 00:00:00.000000,Gamma,Chile,70.08,2021/07/12
 2021-07-12 00:00:00.000000,Gamma,Luxembourg,65.03,2021/07/12
 2021-07-12 00:00:00.000000,Gamma,N/A,0.0,
-2021-07-26 00:00:00.000000,Gamma,Argentina,57.43,2021/07/26
-2021-07-26 00:00:00.000000,Gamma,Brazil,87.54,2021/07/26
+2021-07-26 00:00:00.000000,Gamma,Argentina,57.27,2021/07/26
+2021-07-26 00:00:00.000000,Gamma,Brazil,87.55,2021/07/26
 2021-07-26 00:00:00.000000,Gamma,Chile,62.99,2021/07/26
 2021-07-26 00:00:00.000000,Gamma,N/A,0.0,
-2021-08-09 00:00:00.000000,Gamma,Argentina,57.85,2021/08/09
-2021-08-09 00:00:00.000000,Gamma,Brazil,70.11,2021/08/09
+2021-08-09 00:00:00.000000,Gamma,Argentina,57.94,2021/08/09
+2021-08-09 00:00:00.000000,Gamma,Brazil,70.08,2021/08/09
 2021-08-09 00:00:00.000000,Gamma,Chile,58.39,2021/08/09
 2021-08-09 00:00:00.000000,Gamma,N/A,0.0,
 2021-08-23 00:00:00.000000,Gamma,Argentina,54.9,2021/08/23
 2021-08-23 00:00:00.000000,Gamma,Chile,45.48,2021/08/23
 2021-08-23 00:00:00.000000,Gamma,N/A,0.0,
-2021-08-23 00:00:00.000000,Gamma,Peru,39.28,2021/08/23
+2021-08-23 00:00:00.000000,Gamma,Peru,39.25,2021/08/23
 2021-08-23 00:00:00.000000,Gamma,Trinidad and Tobago,97.18,2021/08/23
-2021-09-06 00:00:00.000000,Gamma,Argentina,57.24,2021/09/06
+2021-09-06 00:00:00.000000,Gamma,Argentina,57.33,2021/09/06
 2021-09-06 00:00:00.000000,Gamma,N/A,0.0,
 2021-09-20 00:00:00.000000,Gamma,N/A,0.0,
 2021-10-04 00:00:00.000000,Gamma,N/A,0.0,
@@ -2046,6 +2061,8 @@ date,variant,location,percent_of_sequences,date_str
 2022-05-02 00:00:00.000000,Gamma,N/A,0.0,
 2022-05-16 00:00:00.000000,Gamma,N/A,0.0,
 2022-05-30 00:00:00.000000,Gamma,N/A,0.0,
+2022-06-13 00:00:00.000000,Gamma,N/A,0.0,
+2022-06-26 00:00:00.000000,Gamma,N/A,0.0,
 2020-05-11 00:00:00.000000,Iota,N/A,0.0,
 2020-05-25 00:00:00.000000,Iota,N/A,0.0,
 2020-06-08 00:00:00.000000,Iota,N/A,0.0,
@@ -2079,7 +2096,7 @@ date,variant,location,percent_of_sequences,date_str
 2021-06-14 00:00:00.000000,Iota,N/A,0.0,
 2021-06-28 00:00:00.000000,Iota,Ecuador,27.61,2021/06/28
 2021-06-28 00:00:00.000000,Iota,N/A,0.0,
-2021-07-12 00:00:00.000000,Iota,Ecuador,22.19,2021/07/12
+2021-07-12 00:00:00.000000,Iota,Ecuador,22.12,2021/07/12
 2021-07-12 00:00:00.000000,Iota,N/A,0.0,
 2021-07-26 00:00:00.000000,Iota,N/A,0.0,
 2021-08-09 00:00:00.000000,Iota,N/A,0.0,
@@ -2104,6 +2121,8 @@ date,variant,location,percent_of_sequences,date_str
 2022-05-02 00:00:00.000000,Iota,N/A,0.0,
 2022-05-16 00:00:00.000000,Iota,N/A,0.0,
 2022-05-30 00:00:00.000000,Iota,N/A,0.0,
+2022-06-13 00:00:00.000000,Iota,N/A,0.0,
+2022-06-26 00:00:00.000000,Iota,N/A,0.0,
 2020-05-11 00:00:00.000000,Kappa,N/A,0.0,
 2020-05-25 00:00:00.000000,Kappa,N/A,0.0,
 2020-06-08 00:00:00.000000,Kappa,N/A,0.0,
@@ -2160,6 +2179,8 @@ date,variant,location,percent_of_sequences,date_str
 2022-05-02 00:00:00.000000,Kappa,N/A,0.0,
 2022-05-16 00:00:00.000000,Kappa,N/A,0.0,
 2022-05-30 00:00:00.000000,Kappa,N/A,0.0,
+2022-06-13 00:00:00.000000,Kappa,N/A,0.0,
+2022-06-26 00:00:00.000000,Kappa,N/A,0.0,
 2020-05-11 00:00:00.000000,Lambda,N/A,0.0,
 2020-05-25 00:00:00.000000,Lambda,N/A,0.0,
 2020-06-08 00:00:00.000000,Lambda,N/A,0.0,
@@ -2180,34 +2201,36 @@ date,variant,location,percent_of_sequences,date_str
 2021-01-04 00:00:00.000000,Lambda,N/A,0.0,
 2021-01-25 00:00:00.000000,Lambda,N/A,0.0,
 2021-02-08 00:00:00.000000,Lambda,N/A,0.0,
+2021-02-08 00:00:00.000000,Lambda,Peru,44.54,2021/02/08
 2021-02-22 00:00:00.000000,Lambda,N/A,0.0,
+2021-02-22 00:00:00.000000,Lambda,Peru,46.56,2021/02/22
 2021-03-08 00:00:00.000000,Lambda,N/A,0.0,
-2021-03-08 00:00:00.000000,Lambda,Peru,64.0,2021/03/08
+2021-03-08 00:00:00.000000,Lambda,Peru,65.05,2021/03/08
 2021-03-22 00:00:00.000000,Lambda,Chile,35.29,2021/03/22
 2021-03-22 00:00:00.000000,Lambda,N/A,0.0,
-2021-03-22 00:00:00.000000,Lambda,Peru,79.91,2021/03/22
+2021-03-22 00:00:00.000000,Lambda,Peru,81.64,2021/03/22
 2021-04-05 00:00:00.000000,Lambda,Chile,39.91,2021/04/05
 2021-04-05 00:00:00.000000,Lambda,N/A,0.0,
-2021-04-05 00:00:00.000000,Lambda,Peru,75.94,2021/04/05
+2021-04-05 00:00:00.000000,Lambda,Peru,76.32,2021/04/05
 2021-04-19 00:00:00.000000,Lambda,Chile,40.97,2021/04/19
 2021-04-19 00:00:00.000000,Lambda,N/A,0.0,
-2021-04-19 00:00:00.000000,Lambda,Peru,77.42,2021/04/19
+2021-04-19 00:00:00.000000,Lambda,Peru,77.26,2021/04/19
 2021-05-03 00:00:00.000000,Lambda,N/A,0.0,
-2021-05-03 00:00:00.000000,Lambda,Peru,84.36,2021/05/03
+2021-05-03 00:00:00.000000,Lambda,Peru,84.42,2021/05/03
 2021-05-17 00:00:00.000000,Lambda,N/A,0.0,
 2021-05-17 00:00:00.000000,Lambda,Peru,78.55,2021/05/17
 2021-05-31 00:00:00.000000,Lambda,N/A,0.0,
 2021-05-31 00:00:00.000000,Lambda,Peru,74.3,2021/05/31
 2021-06-14 00:00:00.000000,Lambda,N/A,0.0,
-2021-06-14 00:00:00.000000,Lambda,Peru,78.53,2021/06/14
+2021-06-14 00:00:00.000000,Lambda,Peru,78.55,2021/06/14
 2021-06-28 00:00:00.000000,Lambda,N/A,0.0,
-2021-06-28 00:00:00.000000,Lambda,Peru,73.4,2021/06/28
+2021-06-28 00:00:00.000000,Lambda,Peru,73.17,2021/06/28
 2021-07-12 00:00:00.000000,Lambda,N/A,0.0,
-2021-07-12 00:00:00.000000,Lambda,Peru,62.99,2021/07/12
+2021-07-12 00:00:00.000000,Lambda,Peru,63.19,2021/07/12
 2021-07-26 00:00:00.000000,Lambda,N/A,0.0,
-2021-07-26 00:00:00.000000,Lambda,Peru,54.21,2021/07/26
+2021-07-26 00:00:00.000000,Lambda,Peru,54.43,2021/07/26
 2021-08-09 00:00:00.000000,Lambda,N/A,0.0,
-2021-08-09 00:00:00.000000,Lambda,Peru,35.54,2021/08/09
+2021-08-09 00:00:00.000000,Lambda,Peru,35.7,2021/08/09
 2021-08-23 00:00:00.000000,Lambda,N/A,0.0,
 2021-09-06 00:00:00.000000,Lambda,N/A,0.0,
 2021-09-20 00:00:00.000000,Lambda,N/A,0.0,
@@ -2229,6 +2252,8 @@ date,variant,location,percent_of_sequences,date_str
 2022-05-02 00:00:00.000000,Lambda,N/A,0.0,
 2022-05-16 00:00:00.000000,Lambda,N/A,0.0,
 2022-05-30 00:00:00.000000,Lambda,N/A,0.0,
+2022-06-13 00:00:00.000000,Lambda,N/A,0.0,
+2022-06-26 00:00:00.000000,Lambda,N/A,0.0,
 2020-05-11 00:00:00.000000,Mu,N/A,0.0,
 2020-05-25 00:00:00.000000,Mu,N/A,0.0,
 2020-06-08 00:00:00.000000,Mu,N/A,0.0,
@@ -2269,17 +2294,17 @@ date,variant,location,percent_of_sequences,date_str
 2021-07-12 00:00:00.000000,Mu,Colombia,86.09,2021/07/12
 2021-07-12 00:00:00.000000,Mu,N/A,0.0,
 2021-07-26 00:00:00.000000,Mu,Colombia,82.57,2021/07/26
-2021-07-26 00:00:00.000000,Mu,Ecuador,22.8,2021/07/26
+2021-07-26 00:00:00.000000,Mu,Ecuador,22.9,2021/07/26
 2021-07-26 00:00:00.000000,Mu,N/A,0.0,
-2021-07-26 00:00:00.000000,Mu,Panama,33.08,2021/07/26
+2021-07-26 00:00:00.000000,Mu,Panama,33.58,2021/07/26
 2021-08-09 00:00:00.000000,Mu,Colombia,80.67,2021/08/09
 2021-08-09 00:00:00.000000,Mu,Ecuador,32.51,2021/08/09
 2021-08-09 00:00:00.000000,Mu,N/A,0.0,
-2021-08-09 00:00:00.000000,Mu,Panama,44.37,2021/08/09
+2021-08-09 00:00:00.000000,Mu,Panama,44.06,2021/08/09
 2021-08-23 00:00:00.000000,Mu,Colombia,66.51,2021/08/23
 2021-08-23 00:00:00.000000,Mu,N/A,0.0,
 2021-08-23 00:00:00.000000,Mu,Panama,49.59,2021/08/23
-2021-09-06 00:00:00.000000,Mu,Colombia,55.06,2021/09/06
+2021-09-06 00:00:00.000000,Mu,Colombia,54.95,2021/09/06
 2021-09-06 00:00:00.000000,Mu,N/A,0.0,
 2021-09-20 00:00:00.000000,Mu,N/A,0.0,
 2021-10-04 00:00:00.000000,Mu,N/A,0.0,
@@ -2300,6 +2325,8 @@ date,variant,location,percent_of_sequences,date_str
 2022-05-02 00:00:00.000000,Mu,N/A,0.0,
 2022-05-16 00:00:00.000000,Mu,N/A,0.0,
 2022-05-30 00:00:00.000000,Mu,N/A,0.0,
+2022-06-13 00:00:00.000000,Mu,N/A,0.0,
+2022-06-26 00:00:00.000000,Mu,N/A,0.0,
 2020-05-11 00:00:00.000000,Omicron,N/A,0.0,
 2020-05-25 00:00:00.000000,Omicron,N/A,0.0,
 2020-06-08 00:00:00.000000,Omicron,N/A,0.0,
@@ -2341,279 +2368,283 @@ date,variant,location,percent_of_sequences,date_str
 2021-11-01 00:00:00.000000,Omicron,N/A,0.0,
 2021-11-15 00:00:00.000000,Omicron,N/A,0.0,
 2021-11-29 00:00:00.000000,Omicron,N/A,0.0,
-2021-11-29 00:00:00.000000,Omicron,South Africa,93.31,2021/11/29
+2021-11-29 00:00:00.000000,Omicron,South Africa,93.32,2021/11/29
 2021-12-13 00:00:00.000000,Omicron,Botswana,96.28,2021/12/13
 2021-12-13 00:00:00.000000,Omicron,Eswatini,99.1,2021/12/13
 2021-12-13 00:00:00.000000,Omicron,Kenya,79.55,2021/12/13
 2021-12-13 00:00:00.000000,Omicron,N/A,0.0,
-2021-12-13 00:00:00.000000,Omicron,Nigeria,89.47,2021/12/13
-2021-12-13 00:00:00.000000,Omicron,South Africa,97.55,2021/12/13
+2021-12-13 00:00:00.000000,Omicron,Nigeria,89.81,2021/12/13
+2021-12-13 00:00:00.000000,Omicron,South Africa,97.56,2021/12/13
 2021-12-13 00:00:00.000000,Omicron,Zimbabwe,100.0,2021/12/13
 2021-12-27 00:00:00.000000,Omicron,Australia,52.73,2021/12/27
 2021-12-27 00:00:00.000000,Omicron,Austria,53.7,2021/12/27
 2021-12-27 00:00:00.000000,Omicron,Botswana,99.71,2021/12/27
-2021-12-27 00:00:00.000000,Omicron,Canada,74.91,2021/12/27
+2021-12-27 00:00:00.000000,Omicron,Canada,75.06,2021/12/27
 2021-12-27 00:00:00.000000,Omicron,Chile,60.77,2021/12/27
-2021-12-27 00:00:00.000000,Omicron,Colombia,68.06,2021/12/27
+2021-12-27 00:00:00.000000,Omicron,Colombia,68.49,2021/12/27
 2021-12-27 00:00:00.000000,Omicron,Costa Rica,55.69,2021/12/27
-2021-12-27 00:00:00.000000,Omicron,Denmark,57.26,2021/12/27
-2021-12-27 00:00:00.000000,Omicron,Ecuador,56.44,2021/12/27
-2021-12-27 00:00:00.000000,Omicron,Ghana,99.7,2021/12/27
+2021-12-27 00:00:00.000000,Omicron,Denmark,57.16,2021/12/27
+2021-12-27 00:00:00.000000,Omicron,Ecuador,55.88,2021/12/27
+2021-12-27 00:00:00.000000,Omicron,Ghana,99.71,2021/12/27
 2021-12-27 00:00:00.000000,Omicron,Hong Kong,83.74,2021/12/27
 2021-12-27 00:00:00.000000,Omicron,Ireland,60.99,2021/12/27
 2021-12-27 00:00:00.000000,Omicron,Israel,51.71,2021/12/27
 2021-12-27 00:00:00.000000,Omicron,Jamaica,60.94,2021/12/27
-2021-12-27 00:00:00.000000,Omicron,Kenya,97.72,2021/12/27
+2021-12-27 00:00:00.000000,Omicron,Kenya,97.74,2021/12/27
 2021-12-27 00:00:00.000000,Omicron,N/A,0.0,
 2021-12-27 00:00:00.000000,Omicron,Namibia,99.57,2021/12/27
-2021-12-27 00:00:00.000000,Omicron,Nigeria,93.82,2021/12/27
-2021-12-27 00:00:00.000000,Omicron,Norway,50.06,2021/12/27
-2021-12-27 00:00:00.000000,Omicron,Philippines,98.53,2021/12/27
+2021-12-27 00:00:00.000000,Omicron,Nigeria,93.99,2021/12/27
+2021-12-27 00:00:00.000000,Omicron,Norway,50.12,2021/12/27
+2021-12-27 00:00:00.000000,Omicron,Philippines,98.6,2021/12/27
 2021-12-27 00:00:00.000000,Omicron,Singapore,53.37,2021/12/27
-2021-12-27 00:00:00.000000,Omicron,South Africa,98.72,2021/12/27
-2021-12-27 00:00:00.000000,Omicron,United Kingdom,70.68,2021/12/27
-2021-12-27 00:00:00.000000,Omicron,United States,59.17,2021/12/27
-2022-01-10 00:00:00.000000,Omicron,Argentina,79.29,2022/01/10
+2021-12-27 00:00:00.000000,Omicron,South Africa,98.73,2021/12/27
+2021-12-27 00:00:00.000000,Omicron,United Kingdom,70.65,2021/12/27
+2021-12-27 00:00:00.000000,Omicron,United States,59.16,2021/12/27
+2022-01-10 00:00:00.000000,Omicron,Argentina,79.17,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Australia,90.7,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Austria,76.85,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Bangladesh,56.34,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Belgium,83.86,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Belgium,86.75,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Belize,93.08,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Botswana,99.45,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Brazil,93.41,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Brazil,93.37,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Brunei,53.8,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Cambodia,60.75,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Cameroon,97.56,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Canada,95.88,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Cameroon,97.86,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Canada,95.89,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Chile,87.25,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Colombia,95.65,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Colombia,95.97,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Costa Rica,91.18,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Czechia,67.35,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Denmark,93.67,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Czechia,67.36,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Denmark,93.5,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Djibouti,99.51,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Ecuador,83.17,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Finland,86.3,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,France,73.78,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Georgia,84.18,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Germany,64.92,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Ghana,99.09,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Ghana,99.26,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Greece,87.1,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Guatemala,98.51,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Guinea,100.0,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Hong Kong,98.93,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,India,87.01,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,India,87.0,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Indonesia,72.88,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Ireland,95.61,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Ireland,95.62,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Israel,90.44,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Italy,78.86,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Italy,78.83,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Jamaica,98.43,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Japan,86.84,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Kenya,99.59,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Japan,86.9,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Kenya,99.49,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Luxembourg,83.7,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Malaysia,62.76,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Malaysia,62.79,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Malta,80.73,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Mexico,87.09,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Mexico,87.51,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,N/A,0.0,
+2022-01-10 00:00:00.000000,Omicron,Nepal,79.21,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Netherlands,75.98,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Nigeria,97.67,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Norway,84.08,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Panama,85.95,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Peru,66.01,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Philippines,99.89,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Nigeria,97.77,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Norway,83.28,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Panama,85.71,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Peru,67.39,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Philippines,99.96,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Portugal,85.03,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Qatar,96.36,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Romania,73.53,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Romania,73.62,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Seychelles,81.96,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Singapore,78.35,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Sint Maarten (Dutch part),97.56,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Slovenia,77.27,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,South Africa,98.51,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Spain,75.74,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Spain,75.68,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Sri Lanka,84.88,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,Sweden,82.12,2022/01/10
+2022-01-10 00:00:00.000000,Omicron,Sweden,82.88,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Switzerland,80.28,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,Thailand,77.14,2022/01/10
 2022-01-10 00:00:00.000000,Omicron,United Kingdom,96.67,2022/01/10
-2022-01-10 00:00:00.000000,Omicron,United States,93.08,2022/01/10
-2022-01-24 00:00:00.000000,Omicron,Argentina,97.1,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Australia,97.03,2022/01/24
+2022-01-10 00:00:00.000000,Omicron,United States,93.07,2022/01/10
+2022-01-24 00:00:00.000000,Omicron,Argentina,97.15,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Australia,97.04,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Austria,93.06,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Bangladesh,94.41,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Belgium,97.96,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Brazil,99.12,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Brunei,89.88,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Bulgaria,78.86,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Belgium,98.16,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Brazil,99.17,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Brunei,89.63,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Bulgaria,78.91,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Cambodia,74.59,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Canada,98.24,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Chile,95.29,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Colombia,96.42,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Canada,98.25,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Chile,95.32,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Colombia,96.59,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Costa Rica,100.0,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Croatia,89.7,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Curacao,89.51,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Czechia,88.49,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Denmark,99.32,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Ecuador,95.26,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Czechia,88.31,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Denmark,99.31,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Ecuador,94.98,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Finland,96.67,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,France,94.09,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,France,94.1,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Georgia,84.14,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Germany,89.06,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Germany,89.2,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Greece,93.08,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Hong Kong,93.43,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,India,99.03,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Indonesia,96.03,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,India,99.05,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Indonesia,96.05,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Iraq,95.54,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Ireland,98.71,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Ireland,98.72,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Israel,99.09,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Italy,93.25,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Italy,93.14,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Jamaica,99.42,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Japan,97.15,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Kenya,99.51,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Japan,97.22,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Kenya,99.56,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Latvia,81.21,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Lithuania,86.76,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Luxembourg,97.89,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Malaysia,71.99,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Mexico,96.88,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Malaysia,72.08,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Mexico,96.89,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Moldova,92.08,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,N/A,0.0,
-2022-01-24 00:00:00.000000,Omicron,Nepal,99.15,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Netherlands,96.22,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Nepal,98.93,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Netherlands,96.18,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,New Zealand,70.79,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Norway,97.12,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Norway,97.18,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Panama,100.0,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Peru,96.19,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Peru,96.43,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Philippines,100.0,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Poland,83.15,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Portugal,95.47,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Romania,91.53,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Russia,70.54,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Romania,91.56,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Russia,70.6,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Singapore,94.43,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Slovakia,79.14,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Slovenia,94.89,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Slovenia,94.9,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,South Africa,98.8,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,South Korea,81.48,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Spain,91.31,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,South Korea,81.52,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Spain,91.32,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Sri Lanka,96.32,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Sweden,97.32,2022/01/24
-2022-01-24 00:00:00.000000,Omicron,Switzerland,95.86,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Sweden,97.38,2022/01/24
+2022-01-24 00:00:00.000000,Omicron,Switzerland,95.88,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Thailand,91.88,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Trinidad and Tobago,61.54,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Turkey,97.88,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,United Kingdom,99.38,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,United States,98.66,2022/01/24
 2022-01-24 00:00:00.000000,Omicron,Vietnam,53.64,2022/01/24
-2022-02-07 00:00:00.000000,Omicron,Argentina,99.8,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Argentina,99.81,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Australia,99.49,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Austria,99.62,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Bangladesh,99.07,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Bangladesh,99.08,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Belgium,99.41,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Brazil,99.75,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Brazil,99.76,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Brunei,98.63,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Bulgaria,94.58,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Bulgaria,95.26,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Cambodia,96.61,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Canada,99.57,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Chile,99.12,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Colombia,98.85,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Colombia,99.24,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Costa Rica,100.0,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Croatia,98.91,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Czechia,96.65,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Denmark,99.74,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Czechia,96.66,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Denmark,99.73,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Ecuador,99.41,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Finland,96.42,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Finland,97.34,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,France,98.66,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Georgia,96.05,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Germany,98.58,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Germany,98.59,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Greece,99.32,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Hong Kong,93.91,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,India,99.54,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,India,99.55,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Indonesia,99.73,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Iran,98.47,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Ireland,99.59,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Israel,99.83,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Italy,98.57,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Italy,98.53,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Jamaica,100.0,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Japan,98.92,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Japan,98.9,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Lithuania,98.5,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Luxembourg,99.61,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Malaysia,91.24,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Malaysia,91.9,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Mauritius,95.65,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Mexico,99.54,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,N/A,0.0,
-2022-02-07 00:00:00.000000,Omicron,Netherlands,99.07,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Netherlands,99.04,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,New Zealand,91.69,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Norway,99.48,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Norway,99.49,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Panama,98.45,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Papua New Guinea,99.61,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Peru,99.77,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Peru,99.72,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Philippines,100.0,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Poland,97.42,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Portugal,98.44,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Romania,95.48,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Russia,91.77,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Russia,91.99,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Singapore,99.74,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Slovakia,96.77,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Slovenia,99.12,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,South Africa,97.71,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,South Korea,97.05,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,South Korea,97.06,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Spain,97.19,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Sri Lanka,98.14,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,Sweden,99.61,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,Sweden,99.59,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Switzerland,98.94,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Thailand,97.53,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,Turkey,99.11,2022/02/07
 2022-02-07 00:00:00.000000,Omicron,United Kingdom,99.82,2022/02/07
-2022-02-07 00:00:00.000000,Omicron,United States,99.65,2022/02/07
+2022-02-07 00:00:00.000000,Omicron,United States,99.66,2022/02/07
 2022-02-21 00:00:00.000000,Omicron,Argentina,100.0,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Australia,99.94,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Austria,99.91,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Bangladesh,99.24,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Belgium,99.57,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Brazil,99.86,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Belgium,99.58,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Brazil,99.87,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Brunei,100.0,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Bulgaria,97.61,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Cambodia,100.0,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Canada,99.85,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Chile,100.0,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Colombia,100.0,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Costa Rica,100.0,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Croatia,99.89,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Czechia,99.4,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Denmark,99.69,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Czechia,99.41,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Denmark,99.68,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Ecuador,100.0,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Estonia,100.0,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Finland,87.99,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,France,99.26,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Finland,88.01,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,France,99.28,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Georgia,99.53,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Germany,99.6,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Germany,99.61,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Greece,98.69,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Hong Kong,96.41,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,India,99.39,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Hong Kong,96.42,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,India,99.41,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Indonesia,100.0,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Iran,100.0,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Ireland,99.58,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Israel,99.86,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Italy,99.63,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Italy,99.59,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Jamaica,100.0,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Japan,99.66,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Japan,99.64,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Lithuania,100.0,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Luxembourg,99.87,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Malaysia,98.46,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Mauritius,98.24,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Malaysia,98.38,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Mauritius,98.73,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Mexico,99.85,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,N/A,0.0,
 2022-02-21 00:00:00.000000,Omicron,Netherlands,99.8,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,New Zealand,98.66,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Norway,99.73,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Panama,100.0,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Norway,99.71,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Panama,99.11,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Papua New Guinea,100.0,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Peru,99.89,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Philippines,100.0,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Poland,98.83,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Portugal,99.81,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Romania,99.5,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Russia,99.8,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Russia,99.82,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Singapore,99.77,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Slovakia,99.39,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Slovenia,99.88,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,South Africa,98.29,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,South Korea,100.0,2022/02/21
-2022-02-21 00:00:00.000000,Omicron,Spain,98.1,2022/02/21
+2022-02-21 00:00:00.000000,Omicron,Spain,98.11,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Sri Lanka,100.0,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Sweden,99.97,2022/02/21
 2022-02-21 00:00:00.000000,Omicron,Switzerland,99.67,2022/02/21
@@ -2624,10 +2655,11 @@ date,variant,location,percent_of_sequences,date_str
 2022-02-21 00:00:00.000000,Omicron,Vietnam,54.77,2022/02/21
 2022-03-07 00:00:00.000000,Omicron,Argentina,100.0,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Australia,99.92,2022/03/07
-2022-03-07 00:00:00.000000,Omicron,Austria,99.2,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,Austria,99.27,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Belgium,99.39,2022/03/07
-2022-03-07 00:00:00.000000,Omicron,Brazil,99.76,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,Brazil,99.78,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Brunei,100.0,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,Bulgaria,100.0,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Cambodia,100.0,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Canada,99.91,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Chile,99.78,2022/03/07
@@ -2642,45 +2674,47 @@ date,variant,location,percent_of_sequences,date_str
 2022-03-07 00:00:00.000000,Omicron,Germany,99.54,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Greece,99.11,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Hong Kong,100.0,2022/03/07
-2022-03-07 00:00:00.000000,Omicron,India,99.38,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,India,99.42,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Indonesia,99.61,2022/03/07
-2022-03-07 00:00:00.000000,Omicron,Iran,99.63,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,Iran,99.64,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Ireland,99.52,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Israel,99.85,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Italy,99.82,2022/03/07
-2022-03-07 00:00:00.000000,Omicron,Japan,99.84,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,Japan,99.82,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Lithuania,100.0,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Luxembourg,99.46,2022/03/07
-2022-03-07 00:00:00.000000,Omicron,Malaysia,99.63,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,Malaysia,99.66,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Mauritius,100.0,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Mexico,99.83,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,N/A,0.0,
 2022-03-07 00:00:00.000000,Omicron,Netherlands,99.66,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,New Zealand,99.67,2022/03/07
-2022-03-07 00:00:00.000000,Omicron,Norway,99.72,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,Norway,99.7,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Peru,100.0,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Philippines,100.0,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Poland,99.33,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Portugal,99.89,2022/03/07
-2022-03-07 00:00:00.000000,Omicron,Romania,99.58,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,Romania,99.65,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Russia,100.0,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Singapore,100.0,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Slovakia,99.75,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Slovenia,99.58,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,South Africa,96.89,2022/03/07
-2022-03-07 00:00:00.000000,Omicron,South Korea,99.94,2022/03/07
-2022-03-07 00:00:00.000000,Omicron,Spain,99.12,2022/03/07
-2022-03-07 00:00:00.000000,Omicron,Sweden,99.86,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,South Korea,99.88,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,Spain,99.13,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,Sweden,99.87,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Switzerland,99.84,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Thailand,99.83,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,Turkey,99.86,2022/03/07
 2022-03-07 00:00:00.000000,Omicron,United Kingdom,99.61,2022/03/07
-2022-03-07 00:00:00.000000,Omicron,United States,99.69,2022/03/07
-2022-03-07 00:00:00.000000,Omicron,Vietnam,91.97,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,United States,99.7,2022/03/07
+2022-03-07 00:00:00.000000,Omicron,Vietnam,92.33,2022/03/07
 2022-03-21 00:00:00.000000,Omicron,Australia,99.94,2022/03/21
-2022-03-21 00:00:00.000000,Omicron,Austria,99.0,2022/03/21
-2022-03-21 00:00:00.000000,Omicron,Belgium,99.18,2022/03/21
-2022-03-21 00:00:00.000000,Omicron,Brazil,99.81,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,Austria,99.02,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,Belgium,99.15,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,Brazil,99.73,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,Brunei,100.0,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,Bulgaria,100.0,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Cambodia,100.0,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Canada,99.99,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Chile,100.0,2022/03/21
@@ -2691,226 +2725,317 @@ date,variant,location,percent_of_sequences,date_str
 2022-03-21 00:00:00.000000,Omicron,Ecuador,100.0,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Estonia,99.73,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Finland,96.64,2022/03/21
-2022-03-21 00:00:00.000000,Omicron,France,99.71,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,France,99.69,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Germany,99.61,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Greece,100.0,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Hong Kong,100.0,2022/03/21
-2022-03-21 00:00:00.000000,Omicron,India,97.78,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,India,97.94,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Indonesia,99.87,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Ireland,99.77,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Israel,99.49,2022/03/21
-2022-03-21 00:00:00.000000,Omicron,Italy,99.26,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,Italy,99.28,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Japan,99.93,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Lithuania,100.0,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Luxembourg,99.71,2022/03/21
-2022-03-21 00:00:00.000000,Omicron,Malaysia,99.4,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,Malaysia,99.49,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Mauritius,100.0,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Mexico,99.5,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,N/A,0.0,
 2022-03-21 00:00:00.000000,Omicron,Netherlands,99.73,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,New Zealand,100.0,2022/03/21
-2022-03-21 00:00:00.000000,Omicron,Norway,99.85,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,Norway,99.86,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Peru,99.53,2022/03/21
-2022-03-21 00:00:00.000000,Omicron,Poland,98.99,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,Poland,99.0,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Portugal,99.62,2022/03/21
-2022-03-21 00:00:00.000000,Omicron,Romania,99.65,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,Romania,99.74,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Singapore,100.0,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Slovakia,99.91,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Slovenia,99.2,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,South Africa,97.73,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,South Korea,100.0,2022/03/21
-2022-03-21 00:00:00.000000,Omicron,Spain,98.66,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,Spain,98.68,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Sweden,99.7,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Switzerland,99.88,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Thailand,100.0,2022/03/21
-2022-03-21 00:00:00.000000,Omicron,Turkey,98.82,2022/03/21
+2022-03-21 00:00:00.000000,Omicron,Turkey,99.19,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,United Kingdom,99.41,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,United States,99.75,2022/03/21
 2022-03-21 00:00:00.000000,Omicron,Vietnam,97.81,2022/03/21
 2022-04-04 00:00:00.000000,Omicron,Australia,99.94,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Austria,99.06,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Belgium,99.51,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Brazil,99.86,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Belgium,99.52,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Brazil,99.89,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Canada,99.94,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Chile,100.0,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Colombia,95.8,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Costa Rica,100.0,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Croatia,100.0,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Czechia,99.2,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Czechia,99.21,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Denmark,99.6,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Estonia,99.7,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Finland,98.29,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,France,99.79,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Germany,99.57,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Finland,98.3,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,France,99.78,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Germany,99.56,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Greece,100.0,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Hong Kong,100.0,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,India,98.82,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Indonesia,99.49,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,India,98.88,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Indonesia,99.24,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Ireland,99.74,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Israel,99.65,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Italy,99.78,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Japan,99.94,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Italy,99.82,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Japan,99.93,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Laos,94.06,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Lithuania,99.01,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Luxembourg,99.7,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Malaysia,99.54,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Malaysia,99.58,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Mauritius,99.12,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Mexico,99.75,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,N/A,0.0,
 2022-04-04 00:00:00.000000,Omicron,Netherlands,99.34,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,New Zealand,99.63,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Norway,99.78,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Peru,99.49,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Peru,99.5,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Poland,98.95,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Portugal,99.48,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Romania,99.76,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Romania,99.82,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Singapore,99.64,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Slovakia,99.44,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Slovenia,99.5,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,South Africa,98.69,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,South Korea,99.79,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Spain,99.26,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Slovenia,98.6,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,South Africa,98.7,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,South Korea,99.84,2022/04/04
+2022-04-04 00:00:00.000000,Omicron,Spain,99.23,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Sweden,99.3,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Switzerland,99.61,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Thailand,99.47,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,Turkey,100.0,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,United Kingdom,99.31,2022/04/04
 2022-04-04 00:00:00.000000,Omicron,United States,99.73,2022/04/04
-2022-04-04 00:00:00.000000,Omicron,Vietnam,99.69,2022/04/04
-2022-04-18 00:00:00.000000,Omicron,Australia,99.85,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Austria,99.6,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Belgium,99.27,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Brazil,99.66,2022/04/18
+2022-04-04 00:00:00.000000,Omicron,Vietnam,99.71,2022/04/04
+2022-04-18 00:00:00.000000,Omicron,Australia,99.86,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Austria,99.61,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Belgium,99.25,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Brazil,99.67,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Canada,99.91,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Chile,99.82,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Chile,99.83,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Colombia,100.0,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Costa Rica,100.0,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Croatia,100.0,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Czechia,99.4,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Czechia,99.42,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Denmark,99.57,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Estonia,99.62,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Finland,98.35,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,France,99.78,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Germany,99.37,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Estonia,99.71,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Finland,98.36,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,France,99.76,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Germany,99.36,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Hong Kong,100.0,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,India,99.85,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Indonesia,100.0,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Ireland,99.36,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,India,99.43,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Indonesia,98.21,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Ireland,99.54,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Israel,99.37,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Italy,99.24,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Japan,99.96,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Italy,99.21,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Japan,99.97,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Lithuania,100.0,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Luxembourg,99.17,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Malaysia,100.0,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Malaysia,99.91,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Mexico,100.0,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,N/A,0.0,
 2022-04-18 00:00:00.000000,Omicron,Netherlands,99.49,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,New Zealand,99.86,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Norway,99.63,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Peru,99.22,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Norway,99.65,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Peru,99.25,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Poland,99.43,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Portugal,99.18,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Romania,100.0,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Singapore,99.81,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Slovakia,99.73,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Slovenia,99.06,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,South Africa,99.6,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,South Korea,99.93,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Spain,99.2,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Sweden,98.89,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Slovenia,97.25,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,South Africa,99.61,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,South Korea,99.94,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Spain,99.22,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Sweden,98.9,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,Switzerland,99.7,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Thailand,99.7,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Turkey,99.76,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Thailand,99.72,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Turkey,99.83,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,United Kingdom,99.22,2022/04/18
 2022-04-18 00:00:00.000000,Omicron,United States,99.68,2022/04/18
-2022-04-18 00:00:00.000000,Omicron,Vietnam,100.0,2022/04/18
+2022-04-18 00:00:00.000000,Omicron,Vietnam,99.63,2022/04/18
 2022-05-02 00:00:00.000000,Omicron,Australia,99.96,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Austria,99.34,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Belgium,99.47,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Brazil,99.66,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Canada,99.64,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Chile,99.71,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Austria,99.35,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Belgium,99.52,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Brazil,97.76,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Canada,99.65,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Chile,99.74,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Colombia,94.21,2022/05/02
 2022-05-02 00:00:00.000000,Omicron,Costa Rica,100.0,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Croatia,99.03,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Czechia,99.69,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Croatia,98.94,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Czechia,99.53,2022/05/02
 2022-05-02 00:00:00.000000,Omicron,Denmark,99.15,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Finland,98.05,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Estonia,99.46,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Finland,97.95,2022/05/02
 2022-05-02 00:00:00.000000,Omicron,France,99.73,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Germany,99.27,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Germany,99.28,2022/05/02
 2022-05-02 00:00:00.000000,Omicron,Greece,99.61,2022/05/02
 2022-05-02 00:00:00.000000,Omicron,Hong Kong,100.0,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,India,99.85,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Ireland,99.77,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,India,99.74,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Ireland,99.71,2022/05/02
 2022-05-02 00:00:00.000000,Omicron,Israel,99.57,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Italy,99.16,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Japan,99.95,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Italy,99.2,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Japan,99.98,2022/05/02
 2022-05-02 00:00:00.000000,Omicron,Lithuania,99.08,2022/05/02
 2022-05-02 00:00:00.000000,Omicron,Luxembourg,98.59,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Malaysia,99.23,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Mexico,99.46,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Malaysia,99.34,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Mexico,99.49,2022/05/02
 2022-05-02 00:00:00.000000,Omicron,N/A,0.0,
-2022-05-02 00:00:00.000000,Omicron,Netherlands,99.04,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Netherlands,99.05,2022/05/02
 2022-05-02 00:00:00.000000,Omicron,New Zealand,99.75,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Norway,99.09,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Peru,99.35,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Poland,96.76,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Norway,99.23,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Peru,99.38,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Poland,96.83,2022/05/02
 2022-05-02 00:00:00.000000,Omicron,Portugal,99.72,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Singapore,99.63,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Slovakia,99.8,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Slovenia,98.39,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,South Africa,99.92,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,South Korea,100.0,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Spain,99.62,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Sweden,98.43,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,Switzerland,99.1,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Romania,99.04,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Singapore,99.64,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Slovakia,99.84,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Slovenia,95.93,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,South Africa,99.86,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,South Korea,99.95,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Spain,99.69,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Sweden,98.71,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Switzerland,99.12,2022/05/02
 2022-05-02 00:00:00.000000,Omicron,Thailand,100.0,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,United Kingdom,99.04,2022/05/02
-2022-05-02 00:00:00.000000,Omicron,United States,99.63,2022/05/02
-2022-05-16 00:00:00.000000,Omicron,Australia,99.75,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Austria,100.0,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Belgium,99.76,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Brazil,96.75,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Canada,99.8,2022/05/16
+2022-05-02 00:00:00.000000,Omicron,Turkey,99.04,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,United Kingdom,99.05,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,United States,99.62,2022/05/02
+2022-05-02 00:00:00.000000,Omicron,Vietnam,99.38,2022/05/02
+2022-05-16 00:00:00.000000,Omicron,Australia,99.81,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Austria,99.29,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Belgium,99.7,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Brazil,98.41,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Canada,99.6,2022/05/16
 2022-05-16 00:00:00.000000,Omicron,Chile,100.0,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Colombia,98.8,2022/05/16
 2022-05-16 00:00:00.000000,Omicron,Costa Rica,100.0,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Croatia,98.6,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Czechia,100.0,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Denmark,99.05,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,France,99.64,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Germany,99.3,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Hong Kong,99.38,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,India,99.75,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Croatia,99.44,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Czechia,99.37,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Denmark,99.07,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Estonia,98.67,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Finland,98.31,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,France,99.54,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Germany,99.29,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Hong Kong,99.2,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,India,99.5,2022/05/16
 2022-05-16 00:00:00.000000,Omicron,Ireland,100.0,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Israel,98.92,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Italy,99.42,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Japan,99.79,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Luxembourg,99.29,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Mexico,98.9,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Israel,99.0,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Italy,99.27,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Japan,99.91,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Luxembourg,99.52,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Malaysia,99.25,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Mauritius,100.0,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Mexico,99.32,2022/05/16
 2022-05-16 00:00:00.000000,Omicron,N/A,0.0,
-2022-05-16 00:00:00.000000,Omicron,Netherlands,99.59,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Netherlands,99.36,2022/05/16
 2022-05-16 00:00:00.000000,Omicron,New Zealand,100.0,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Poland,98.55,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Portugal,99.57,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Norway,99.22,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Panama,68.7,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Peru,100.0,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Poland,98.84,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Portugal,99.66,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Russia,99.15,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Serbia,100.0,2022/05/16
 2022-05-16 00:00:00.000000,Omicron,Singapore,100.0,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Slovakia,99.49,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Slovenia,96.45,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,South Africa,99.84,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Spain,99.56,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Sweden,98.74,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,Switzerland,97.77,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Slovakia,99.84,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Slovenia,96.52,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,South Africa,99.91,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,South Korea,99.88,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Spain,99.37,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Sweden,99.04,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,Switzerland,98.63,2022/05/16
 2022-05-16 00:00:00.000000,Omicron,Thailand,100.0,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,United Kingdom,98.94,2022/05/16
-2022-05-16 00:00:00.000000,Omicron,United States,99.57,2022/05/16
-2022-05-30 00:00:00.000000,Omicron,Australia,98.84,2022/05/30
-2022-05-30 00:00:00.000000,Omicron,Austria,98.82,2022/05/30
+2022-05-16 00:00:00.000000,Omicron,Turkey,100.0,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,United Kingdom,98.91,2022/05/16
+2022-05-16 00:00:00.000000,Omicron,United States,99.6,2022/05/16
+2022-05-30 00:00:00.000000,Omicron,Australia,99.57,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Austria,99.16,2022/05/30
 2022-05-30 00:00:00.000000,Omicron,Belgium,100.0,2022/05/30
-2022-05-30 00:00:00.000000,Omicron,Canada,100.0,2022/05/30
-2022-05-30 00:00:00.000000,Omicron,Denmark,99.87,2022/05/30
-2022-05-30 00:00:00.000000,Omicron,France,100.0,2022/05/30
-2022-05-30 00:00:00.000000,Omicron,Germany,97.87,2022/05/30
-2022-05-30 00:00:00.000000,Omicron,Israel,96.0,2022/05/30
-2022-05-30 00:00:00.000000,Omicron,Italy,99.1,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Brazil,97.78,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Canada,99.52,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Chile,99.86,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Costa Rica,99.1,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Croatia,100.0,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Czechia,99.75,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Denmark,99.19,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Estonia,99.4,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Finland,99.55,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,France,99.45,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Germany,99.32,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Hong Kong,100.0,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,India,99.52,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Indonesia,99.21,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Ireland,99.75,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Israel,98.54,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Italy,99.35,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Japan,99.68,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Luxembourg,99.68,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Malaysia,99.0,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Mexico,99.47,2022/05/30
 2022-05-30 00:00:00.000000,Omicron,N/A,0.0,
-2022-05-30 00:00:00.000000,Omicron,Netherlands,99.05,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Netherlands,99.55,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Norway,99.83,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Peru,100.0,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Poland,100.0,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Portugal,99.46,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Russia,96.61,2022/05/30
 2022-05-30 00:00:00.000000,Omicron,Singapore,100.0,2022/05/30
-2022-05-30 00:00:00.000000,Omicron,Spain,99.26,2022/05/30
-2022-05-30 00:00:00.000000,Omicron,Switzerland,100.0,2022/05/30
-2022-05-30 00:00:00.000000,Omicron,United Kingdom,98.88,2022/05/30
-2022-05-30 00:00:00.000000,Omicron,United States,99.5,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Slovakia,100.0,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Slovenia,96.41,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,South Africa,100.0,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,South Korea,99.79,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Spain,99.87,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Sweden,99.65,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Switzerland,99.3,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Thailand,100.0,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,Turkey,99.74,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,United Kingdom,99.07,2022/05/30
+2022-05-30 00:00:00.000000,Omicron,United States,99.62,2022/05/30
+2022-06-13 00:00:00.000000,Omicron,Australia,99.85,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Austria,99.87,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Belgium,99.84,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Brazil,99.5,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Canada,99.62,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Czechia,97.91,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Denmark,99.8,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,France,99.88,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Germany,99.43,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Hong Kong,100.0,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,India,99.84,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Indonesia,100.0,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Ireland,99.64,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Israel,99.33,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Italy,99.6,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Japan,99.14,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Luxembourg,99.48,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Mexico,99.71,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,N/A,0.0,
+2022-06-13 00:00:00.000000,Omicron,Netherlands,99.78,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Norway,99.49,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Peru,98.8,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Portugal,99.83,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Singapore,100.0,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Slovenia,100.0,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,South Africa,100.0,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,South Korea,100.0,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Spain,99.83,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Sweden,99.7,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Switzerland,100.0,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,Thailand,100.0,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,United Kingdom,99.48,2022/06/13
+2022-06-13 00:00:00.000000,Omicron,United States,99.67,2022/06/13
+2022-06-26 00:00:00.000000,Omicron,Australia,100.0,2022/06/26
+2022-06-26 00:00:00.000000,Omicron,Belgium,100.0,2022/06/26
+2022-06-26 00:00:00.000000,Omicron,Denmark,99.92,2022/06/26
+2022-06-26 00:00:00.000000,Omicron,Germany,99.52,2022/06/26
+2022-06-26 00:00:00.000000,Omicron,Israel,99.79,2022/06/26
+2022-06-26 00:00:00.000000,Omicron,Italy,100.0,2022/06/26
+2022-06-26 00:00:00.000000,Omicron,N/A,0.0,
+2022-06-26 00:00:00.000000,Omicron,Netherlands,100.0,2022/06/26
+2022-06-26 00:00:00.000000,Omicron,Singapore,100.0,2022/06/26
+2022-06-26 00:00:00.000000,Omicron,United Kingdom,99.96,2022/06/26
+2022-06-26 00:00:00.000000,Omicron,United States,99.89,2022/06/26
